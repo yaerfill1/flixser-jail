@@ -147,3 +147,176 @@
 - ghutra/21.jpg — [File:Mohamed Abdel Khalek portrait in Saudi attire 2026.jpg](https://commons.wikimedia.org/wiki/File:Mohamed_Abdel_Khalek_portrait_in_Saudi_attire_2026.jpg) — MohamedAKN — CC0
 - ghutra/29.jpg — [File:The Pearl Harvester.jpg](https://commons.wikimedia.org/wiki/File:The_Pearl_Harvester.jpg) — Jayson De Leon — CC BY 2.0
 - ghutra/32.jpg — [File:Iraqi Militiaman - Flickr - Christiaan Briggs.jpg](https://commons.wikimedia.org/wiki/File:Iraqi_Militiaman_-_Flickr_-_Christiaan_Briggs.jpg) — Christiaan Briggs from London, United Kingdom — CC BY-SA 2.0
+- chihuahua/00.jpg — [File:Chihuahua dog portrait.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_dog_portrait.jpg) — tanakawho — CC BY 2.0
+- chihuahua/01.jpg — [File:Chihuahua portrait.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_portrait.jpg) — Robert Simmons — CC BY 2.0
+- chihuahua/02.jpg — [File:Chihuahua Dog 001.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Dog_001.jpg) — Werwin15 — CC BY 2.0
+- chihuahua/03.jpg — [File:Chihuahua-Dog.JPG](https://commons.wikimedia.org/wiki/File:Chihuahua-Dog.JPG) — Florinux — CC BY-SA 3.0
+- chihuahua/04.jpg — [File:Chihuahua Mix.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Mix.jpg) — Paul Komarek — CC BY-SA 3.0
+- chihuahua/05.jpg — [File:Pariss the Chihuahua, with head cocked.jpg](https://commons.wikimedia.org/wiki/File:Pariss_the_Chihuahua,_with_head_cocked.jpg) — ? — CC BY-SA 3.0
+- chihuahua/06.jpg — [File:Chihuahua at Eight Months.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_at_Eight_Months.jpg) — JDMcGreg — CC BY-SA 3.0
+- chihuahua/07.jpg — [File:Chihuahua Wassup?.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Wassup%3F.jpg) — Charlie Stinchcomb — CC BY 2.0
+- chihuahua/08.jpg — [File:Blubble Head English Chihuahua - Warhol.jpg](https://commons.wikimedia.org/wiki/File:Blubble_Head_English_Chihuahua_-_Warhol.jpg) — Carlos.ferreira.rejas — CC BY-SA 3.0
+- chihuahua/09.jpg — [File:Chihuahua..JPG](https://commons.wikimedia.org/wiki/File:Chihuahua..JPG) — Andres mortiz — CC BY-SA 3.0
+- chihuahua/10.jpg — [File:01 Chihuahua head.jpg](https://commons.wikimedia.org/wiki/File:01_Chihuahua_head.jpg) — Tim Massey — CC BY-SA 2.0
+- chihuahua/11.jpg — [File:Long coat Chihuahua Dog, Marin - ロングコートチワワのマリン (8730049585).jpg](https://commons.wikimedia.org/wiki/File:Long_coat_Chihuahua_Dog,_Marin_-_%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%BC%E3%83%88%E3%83%81%E3%83%AF%E3%83%AF%E3%81%AE%E3%83%9E%E3%83%AA%E3%83%B3_(8730049585).jpg) — Toshihiro Gamo from Yokohama, Kanagawa, Japan — CC BY 2.0
+- chihuahua/12.jpg — [File:Deer-Head Chihuahua.jpg](https://commons.wikimedia.org/wiki/File:Deer-Head_Chihuahua.jpg) — Lensim — CC BY-SA 4.0
+- chihuahua/13.jpg — [File:Apple Head Chihuahua.jpg](https://commons.wikimedia.org/wiki/File:Apple_Head_Chihuahua.jpg) — znetcancel — CC BY-SA 4.0
+- chihuahua/14.jpg — [File:Chihuahua Lupe.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Lupe.jpg) — Sdosmil77 — CC BY-SA 4.0
+- chihuahua/15.jpg — [File:Theodore Chihuahua.jpg](https://commons.wikimedia.org/wiki/File:Theodore_Chihuahua.jpg) — Ivan Hrustalev — CC BY-SA 4.0
+- chihuahua/16.jpg — [File:Chihuahua macho.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_macho.jpg) — Hugoesteban14 — CC BY-SA 4.0
+- chihuahua/17.jpg — [File:Chihuahua and pint glass (Explored) (41969345954).jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_and_pint_glass_(Explored)_(41969345954).jpg) — Mike McBey — CC BY 2.0
+- chihuahua/18.jpg — [File:A Chihuahua at Taipei 20091106.jpg](https://commons.wikimedia.org/wiki/File:A_Chihuahua_at_Taipei_20091106.jpg) — Yi Chen — CC BY 2.0
+- chihuahua/19.jpg — [File:Chihuahua à poils longs portant une perruque.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_%C3%A0_poils_longs_portant_une_perruque.jpg) — Tatakdh — CC BY-SA 4.0
+- chihuahua/20.jpg — [File:Chihuahua Thomi.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Thomi.jpg) — Samcipher21 — CC BY-SA 4.0
+- chihuahua/21.jpg — [File:Chihuahua ("On Explore" ) - Flickr - Many thanks for all your likes and comments. Great.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_(%22On_Explore%22_)_-_Flickr_-_Many_thanks_for_all_your_likes_and_comments._Great.jpg) — pete beard — CC BY 2.0
+- chihuahua/22.jpg — [File:Chihuahua wikipedia.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_wikipedia.jpg) — Maria Oriza — CC0
+- chihuahua/23.jpg — [File:Chihuahua Dog Face.jpg](https://commons.wikimedia.org/wiki/File:Chihuahua_Dog_Face.jpg) — Federicolozanob — CC BY-SA 3.0
+- chihuahua/24.jpg — [File:Face chiwawa dog.JPG](https://commons.wikimedia.org/wiki/File:Face_chiwawa_dog.JPG) — Peter van der Sluijs — CC BY-SA 3.0
+- chihuahua/25.jpg — [File:Grey chiwawa dog.JPG](https://commons.wikimedia.org/wiki/File:Grey_chiwawa_dog.JPG) — Peter van der Sluijs — CC BY-SA 3.0
+- chihuahua/26.jpg — [File:Alert chihuahua 2.jpg](https://commons.wikimedia.org/wiki/File:Alert_chihuahua_2.jpg) — Nolegolferpimp — CC BY-SA 3.0
+- chihuahua/27.jpg — [File:Jack Chi pup.jpg](https://commons.wikimedia.org/wiki/File:Jack_Chi_pup.jpg) — AbathurWaifu — CC BY-SA 4.0
+- muffin/00.jpg — [File:Muffin NIH.jpg](https://commons.wikimedia.org/wiki/File:Muffin_NIH.jpg) — National Cancer Institute, Renee Comet (photographer) — Public domain
+- muffin/01.jpg — [File:Blueberry muffin, unwrapped.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin,_unwrapped.jpg) — SKopp — CC BY-SA 3.0
+- muffin/02.jpg — [File:Blueberry muffin, wrapped.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin,_wrapped.jpg) — SKopp — CC BY-SA 3.0
+- muffin/03.jpg — [File:Blueberry muffin, partial.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin,_partial.jpg) — SKopp — CC BY-SA 3.0
+- muffin/04.jpg — [File:Making blueberry muffin (1).jpg](https://commons.wikimedia.org/wiki/File:Making_blueberry_muffin_(1).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/05.jpg — [File:Making blueberry muffin (2).jpg](https://commons.wikimedia.org/wiki/File:Making_blueberry_muffin_(2).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/06.jpg — [File:Mega muffin - cooking in progress IMG 3658 (13455558954).jpg](https://commons.wikimedia.org/wiki/File:Mega_muffin_-_cooking_in_progress_IMG_3658_(13455558954).jpg) — N i c o l a from Fiumicino (Rome), Italy — CC BY 2.0
+- muffin/07.jpg — [File:Mega Muffin - Ready-) - IMG 3667 (13467371415).jpg](https://commons.wikimedia.org/wiki/File:Mega_Muffin_-_Ready-)_-_IMG_3667_(13467371415).jpg) — N i c o l a from Fiumicino (Rome), Italy — CC BY 2.0
+- muffin/08.jpg — [File:Muffin galore - WP 20130714 004 (9283926671).jpg](https://commons.wikimedia.org/wiki/File:Muffin_galore_-_WP_20130714_004_(9283926671).jpg) — N i c o l a from Fiumicino (Rome), Italy — CC BY 2.0
+- muffin/09.jpg — [File:Blueberry lingonberry muffin 2.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_lingonberry_muffin_2.jpg) — Tiia Monto — CC BY-SA 3.0
+- muffin/10.jpg — [File:Cream-in-muffin blueberry cheese of Mister Donut in Japan.jpg](https://commons.wikimedia.org/wiki/File:Cream-in-muffin_blueberry_cheese_of_Mister_Donut_in_Japan.jpg) — 毒島みるく — CC0
+- muffin/11.jpg — [File:Little Debbie Blueberry Muffin (18992931693).jpg](https://commons.wikimedia.org/wiki/File:Little_Debbie_Blueberry_Muffin_(18992931693).jpg) — Willis Lam — CC BY-SA 2.0
+- muffin/12.jpg — [File:Blueberry muffin baby.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin_baby.jpg) — Sarra Benmiloud, Ghizlane Elhaddou, Zoubida Alaoui Belghiti, — CC BY 2.0
+- muffin/13.jpg — [File:2019-11-25 10 11 48 A homemade blueberry muffin with the wrapper taken off in the Dulles section of Sterling, Loudoun County, Virginia.jpg](https://commons.wikimedia.org/wiki/File:2019-11-25_10_11_48_A_homemade_blueberry_muffin_with_the_wrapper_taken_off_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg) — Famartin — CC BY-SA 4.0
+- muffin/14.jpg — [File:2019-11-25 08 16 03 A homemade blueberry muffin in the Dulles section of Sterling, Loudoun County, Virginia.jpg](https://commons.wikimedia.org/wiki/File:2019-11-25_08_16_03_A_homemade_blueberry_muffin_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg) — Famartin — CC BY-SA 4.0
+- muffin/15.jpg — [File:2019-11-25 10 12 25 A homemade blueberry muffin cut in half in the Dulles section of Sterling, Loudoun County, Virginia.jpg](https://commons.wikimedia.org/wiki/File:2019-11-25_10_12_25_A_homemade_blueberry_muffin_cut_in_half_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg) — Famartin — CC BY-SA 4.0
+- muffin/16.jpg — [File:2021-03-23 14 10 03 Blueberry muffin from Costco in the Dulles section of Sterling, Loudoun County, Virginia.jpg](https://commons.wikimedia.org/wiki/File:2021-03-23_14_10_03_Blueberry_muffin_from_Costco_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg) — Famartin — CC BY-SA 4.0
+- muffin/17.jpg — [File:Blueberry muffin on Amtrak's Cardinal - June 2022 - Sarah Stierch 03.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin_on_Amtrak%27s_Cardinal_-_June_2022_-_Sarah_Stierch_03.jpg) — Missvain — CC BY 4.0
+- muffin/18.jpg — [File:Plain vanilla muffin in Tuntorp.jpg](https://commons.wikimedia.org/wiki/File:Plain_vanilla_muffin_in_Tuntorp.jpg) — W.carter — CC BY-SA 4.0
+- muffin/19.jpg — [File:Blueberry muffin - GAIL's 2025-03-10.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin_-_GAIL%27s_2025-03-10.jpg) — Andy Li — CC0
+- muffin/20.jpg — [File:Blueberry muffin - Cosy Cottage 2025-04-21.jpg](https://commons.wikimedia.org/wiki/File:Blueberry_muffin_-_Cosy_Cottage_2025-04-21.jpg) — Andy Li — CC0
+- muffin/21.jpg — [File:Ham & Cheese Toastie + Blueberry Muffin, Muffin Break Carousel – Kiosk WS, 2025 (01).jpg](https://commons.wikimedia.org/wiki/File:Ham_%26_Cheese_Toastie_%2B_Blueberry_Muffin,_Muffin_Break_Carousel_%E2%80%93_Kiosk_WS,_2025_(01).jpg) — Bahnfrend — CC BY-SA 4.0
+- muffin/22.jpg — [File:Muffin, Einsteins Coffee Murdoch Square, 2025 (01).jpg](https://commons.wikimedia.org/wiki/File:Muffin,_Einsteins_Coffee_Murdoch_Square,_2025_(01).jpg) — Bahnfrend — CC BY-SA 4.0
+- muffin/23.jpg — [File:Muffin Starbucks 2.jpg](https://commons.wikimedia.org/wiki/File:Muffin_Starbucks_2.jpg) — picsishouldshare — CC BY-SA 2.0
+- muffin/24.jpg — [File:Muffin Sweets.jpg](https://commons.wikimedia.org/wiki/File:Muffin_Sweets.jpg) — Pdpics — CC BY-SA 3.0
+- muffin/25.jpg — [File:Making plain muffin (1).jpg](https://commons.wikimedia.org/wiki/File:Making_plain_muffin_(1).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/26.jpg — [File:Coffee Muffin (1).jpg](https://commons.wikimedia.org/wiki/File:Coffee_Muffin_(1).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/27.jpg — [File:Vegetable Muffin (1).jpg](https://commons.wikimedia.org/wiki/File:Vegetable_Muffin_(1).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/28.jpg — [File:Cinnamon Muffin (1).jpg](https://commons.wikimedia.org/wiki/File:Cinnamon_Muffin_(1).jpg) — Roozitaa — CC BY-SA 4.0
+- muffin/29.jpg — [File:Muffin (23699389073).jpg](https://commons.wikimedia.org/wiki/File:Muffin_(23699389073).jpg) — www.Pixel.la Free Stock Photos — CC0
+- labradoodle/00.jpg — [File:Labradoodle Laying 2375px.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_Laying_2375px.jpg) — Photo by Derek Ramsey (Ram-Man) — CC BY-SA 2.5
+- labradoodle/01.jpg — [File:Labradoodle Scrappy.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_Scrappy.jpg) — Endless Dan — CC BY-SA 3.0
+- labradoodle/02.jpg — [File:Labradoodle-male-australian-9-months.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle-male-australian-9-months.jpg) — Searchtempo — CC BY-SA 3.0
+- labradoodle/03.jpg — [File:Labradoodle-puppy.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle-puppy.jpg) — Webdude1 — CC BY 3.0
+- labradoodle/04.jpg — [File:Labradoodle Dugga.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_Dugga.jpg) — Bengt Oberger — CC BY-SA 4.0
+- labradoodle/05.jpg — [File:Labradoodle-braun.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle-braun.jpg) — Anton Porsche — CC BY 4.0
+- labradoodle/06.jpg — [File:Labradoodle white.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_white.jpg) — rab steen — CC BY-SA 2.0
+- labradoodle/07.jpg — [File:Labradoodle am Strand.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_am_Strand.jpg) — Geoprofi Lars — CC BY-SA 4.0
+- labradoodle/08.jpg — [File:Labradoodle-Brown-Male-SideFace.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle-Brown-Male-SideFace.jpg) — Anton Porsche — CC BY-SA 4.0
+- labradoodle/09.jpg — [File:Labradoodle 04.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_04.jpg) — claralieu — CC BY 2.0
+- labradoodle/10.jpg — [File:Labradoodle 03.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_03.jpg) — claralieu — CC BY 2.0
+- labradoodle/11.jpg — [File:Labradoodle 01.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_01.jpg) — claralieu — CC BY 2.0
+- labradoodle/12.jpg — [File:Labradoodle 02.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_02.jpg) — claralieu — CC BY 2.0
+- labradoodle/13.jpg — [File:Labradoodle 06.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_06.jpg) — claralieu — CC BY 2.0
+- labradoodle/14.jpg — [File:Labradoodle 05.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_05.jpg) — claralieu — CC BY 2.0
+- labradoodle/15.jpg — [File:Labradoodle Archie at 3 years old.jpg](https://commons.wikimedia.org/wiki/File:Labradoodle_Archie_at_3_years_old.jpg) — TandDCrowell — CC BY-SA 4.0
+- labradoodle/16.jpg — [File:Chocolate Labradoodle.jpg](https://commons.wikimedia.org/wiki/File:Chocolate_Labradoodle.jpg) — TandDCrowell — CC BY-SA 4.0
+- labradoodle/17.jpg — [File:Australian Chocolate Labradoodle.jpg](https://commons.wikimedia.org/wiki/File:Australian_Chocolate_Labradoodle.jpg) — TandDCrowell — CC BY-SA 4.0
+- labradoodle/18.jpg — [File:Mini Labradoodle and Standard Labradoodle.jpg](https://commons.wikimedia.org/wiki/File:Mini_Labradoodle_and_Standard_Labradoodle.jpg) — Adi.darkblue — CC0
+- labradoodle/19.jpg — [File:Goldendoodle standing.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_standing.jpg) — lyrandian — CC BY 2.0
+- labradoodle/20.jpg — [File:Goldendoodle bone.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_bone.jpg) — Glenn1480 — Public domain
+- labradoodle/21.jpg — [File:Goldendoodle-On-Porch.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle-On-Porch.jpg) — Kramtark at English Wikipedia. — Public domain
+- labradoodle/22.jpg — [File:Finnegan the Goldendoodle having fun in the snow.jpg](https://commons.wikimedia.org/wiki/File:Finnegan_the_Goldendoodle_having_fun_in_the_snow.jpg) — Chris Rue — CC BY-SA 4.0
+- labradoodle/23.jpg — [File:Goldendoodle.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle.jpg) — Gullpavon — CC BY-SA 4.0
+- labradoodle/24.jpg — [File:Goldendoodle Eyes ADGS-GD-3.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_Eyes_ADGS-GD-3.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- labradoodle/25.jpg — [File:Goldendoodle ADGS-GD-4.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_ADGS-GD-4.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- labradoodle/26.jpg — [File:Goldendoodle Falling Asleep ADGS-GD-5.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_Falling_Asleep_ADGS-GD-5.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- labradoodle/27.jpg — [File:Goldendoodle Puppy Resting ADGS-GD-6.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_Puppy_Resting_ADGS-GD-6.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- labradoodle/28.jpg — [File:Goldendoodle Ready to Play ADGS-GD-7.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_Ready_to_Play_ADGS-GD-7.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- labradoodle/29.jpg — [File:Goldendoodle in the Lake ADGS-GD-11.jpg](https://commons.wikimedia.org/wiki/File:Goldendoodle_in_the_Lake_ADGS-GD-11.jpg) — Shadowmeld Photography — CC BY-SA 4.0
+- friedchicken/00.jpg — [File:Fried-Chicken-Set.jpg](https://commons.wikimedia.org/wiki/File:Fried-Chicken-Set.jpg) — Evan-Amos — CC0
+- friedchicken/01.jpg — [File:Fried Chicken (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Fried_Chicken_(Unsplash).jpg) — Brian Chan tigerrulezzz — CC0
+- friedchicken/02.jpg — [File:Night Market Fried Chicken Bao- 5 spice buttermilk fried chicken, kale pea sprout sesame slaw, steamed bun.jpg](https://commons.wikimedia.org/wiki/File:Night_Market_Fried_Chicken_Bao-_5_spice_buttermilk_fried_chicken,_kale_pea_sprout_sesame_slaw,_steamed_bun.jpg) — T.Tseng — CC BY 2.0
+- friedchicken/03.jpg — [File:Fried chicken legs in the display.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_legs_in_the_display.jpg) — Peachyeung316 — CC BY-SA 4.0
+- friedchicken/04.jpg — [File:Fried drumstick and wing chicken 1.jpg](https://commons.wikimedia.org/wiki/File:Fried_drumstick_and_wing_chicken_1.jpg) — ? — CC0
+- friedchicken/05.jpg — [File:Fried chicken (25163375255).jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_(25163375255).jpg) — T.Tseng — CC BY 2.0
+- friedchicken/06.jpg — [File:Fried chicken (25045114592).jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_(25045114592).jpg) — T.Tseng — CC BY 2.0
+- friedchicken/07.jpg — [File:Fried chicken legs, Rostov-on-Don, Russia.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_legs,_Rostov-on-Don,_Russia.jpg) — Vyacheslav Argenberg — CC BY 4.0
+- friedchicken/08.jpg — [File:Fried chicken, fried okra and mac & cheese from Mary Mac's Tea Room in Atlanta.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken,_fried_okra_and_mac_%26_cheese_from_Mary_Mac%27s_Tea_Room_in_Atlanta.jpg) — Gatorfan252525 — CC BY-SA 4.0
+- friedchicken/09.jpg — [File:Fried Chicken (5905281949).jpg](https://commons.wikimedia.org/wiki/File:Fried_Chicken_(5905281949).jpg) — Neil Conway from Oakland, USA — CC BY 2.0
+- friedchicken/10.jpg — [File:Fried chicken333.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken333.jpg) — Zarate123 — CC BY-SA 4.0
+- friedchicken/11.jpg — [File:Korean fried chicken eaten in Macau.jpg](https://commons.wikimedia.org/wiki/File:Korean_fried_chicken_eaten_in_Macau.jpg) — Pauloleong2002 — CC BY-SA 4.0
+- friedchicken/12.jpg — [File:Korean fried chicken 240206.jpg](https://commons.wikimedia.org/wiki/File:Korean_fried_chicken_240206.jpg) — Startandstar — CC0
+- friedchicken/13.jpg — [File:Fried Chicken (53556741388).jpg](https://commons.wikimedia.org/wiki/File:Fried_Chicken_(53556741388).jpg) — Choo Yut Shing from Singapore, Singapore — CC BY 2.0
+- friedchicken/14.jpg — [File:Har Cheong Gai (Shrimp paste chicken).jpg](https://commons.wikimedia.org/wiki/File:Har_Cheong_Gai_(Shrimp_paste_chicken).jpg) — Banej — CC BY-SA 4.0
+- friedchicken/15.jpg — [File:Fried chicken and sriracha.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_and_sriracha.jpg) — Corn cheese — CC0
+- friedchicken/16.jpg — [File:Fried chicken leg with rice on a bed.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_leg_with_rice_on_a_bed.jpg) — Curpharar — CC BY-SA 4.0
+- friedchicken/17.jpg — [File:Fried chicken strips sitting on baking rack.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_strips_sitting_on_baking_rack.jpg) — Nashucks — CC0
+- friedchicken/18.jpg — [File:Fried chicken with chips.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_with_chips.jpg) — Jameswasswa — CC BY-SA 4.0
+- friedchicken/19.jpg — [File:Deep fried chicken 02.jpg](https://commons.wikimedia.org/wiki/File:Deep_fried_chicken_02.jpg) — Ssemmanda will — CC BY-SA 4.0
+- friedchicken/20.jpg — [File:Piece of fried chicken.jpg](https://commons.wikimedia.org/wiki/File:Piece_of_fried_chicken.jpg) — Jiafei Slay Queen — CC0
+- friedchicken/21.jpg — [File:Fried chicken and roasted potatoes 01.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_and_roasted_potatoes_01.jpg) — Roenashy — CC BY-SA 4.0
+- friedchicken/22.jpg — [File:Chicken teriyaki, Fried chicken, Asian cuisine in Krasnoyarsk, Russia.jpg](https://commons.wikimedia.org/wiki/File:Chicken_teriyaki,_Fried_chicken,_Asian_cuisine_in_Krasnoyarsk,_Russia.jpg) — Vyacheslav Argenberg — CC BY 4.0
+- friedchicken/23.jpg — [File:Chicken teriyaki, Fried chicken, Krasnoyarsk, Russia.jpg](https://commons.wikimedia.org/wiki/File:Chicken_teriyaki,_Fried_chicken,_Krasnoyarsk,_Russia.jpg) — Vyacheslav Argenberg — CC BY 4.0
+- friedchicken/24.jpg — [File:Hot Honey Fried Chicken with Sweet Potato Fries.jpg](https://commons.wikimedia.org/wiki/File:Hot_Honey_Fried_Chicken_with_Sweet_Potato_Fries.jpg) — (Oinkers42) — CC BY 4.0
+- friedchicken/25.jpg — [File:Kfc chicken potato.jpg](https://commons.wikimedia.org/wiki/File:Kfc_chicken_potato.jpg) — ? — CC BY-SA 3.0
+- friedchicken/26.jpg — [File:Fast food chicken.jpg](https://commons.wikimedia.org/wiki/File:Fast_food_chicken.jpg) — 
+- friedchicken/27.jpg — [File:Fried chicken dinner, Milich's Village Inn.jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_dinner,_Milich%27s_Village_Inn.jpg) — David Gable — Public domain
+- friedchicken/28.jpg — [File:Max's Roasted Chicken - Evan Swigart.jpg](https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg) — Evan Swigart from Chicago, USA — CC BY 2.0
+- friedchicken/29.jpg — [File:Chicken fry pieces 3.JPG](https://commons.wikimedia.org/wiki/File:Chicken_fry_pieces_3.JPG) — Rameshng — CC BY-SA 3.0
+- sheepdog/00.jpg — [File:Bobtail.JPG](https://commons.wikimedia.org/wiki/File:Bobtail.JPG) — Mona (uploaded by Caronna 08:14, 15 Apr 2005 (UTC)) — CC BY-SA 3.0
+- sheepdog/01.jpg — [File:Old English Sheepdog-Nana.jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog-Nana.jpg) — ? — CC BY-SA 2.0
+- sheepdog/02.jpg — [File:Old english sheepdog Ch Bobbyclown's Dare for More.jpg](https://commons.wikimedia.org/wiki/File:Old_english_sheepdog_Ch_Bobbyclown%27s_Dare_for_More.jpg) — Photo taken by Harald Urnes, Norway — CC BY-SA 3.0
+- sheepdog/03.jpg — [File:Bobtail ou old english sheepdog.jpg](https://commons.wikimedia.org/wiki/File:Bobtail_ou_old_english_sheepdog.jpg) — Hervé, Brigitte — CC BY-SA 3.0
+- sheepdog/04.jpg — [File:Chiot bobtail.jpg](https://commons.wikimedia.org/wiki/File:Chiot_bobtail.jpg) — Hervé, Brigitte — CC BY-SA 3.0
+- sheepdog/05.jpg — [File:Tuco Sheepdog.jpg](https://commons.wikimedia.org/wiki/File:Tuco_Sheepdog.jpg) — Joaogcaldas — Public domain
+- sheepdog/06.jpg — [File:Old English Sheep Dog.JPG](https://commons.wikimedia.org/wiki/File:Old_English_Sheep_Dog.JPG) — User:Squigman — Public domain
+- sheepdog/07.jpg — [File:Old English Sheepdog.jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog.jpg) — Andrea Arden — CC BY 2.0
+- sheepdog/08.jpg — [File:Bobtail Fond Blanc.jpg](https://commons.wikimedia.org/wiki/File:Bobtail_Fond_Blanc.jpg) — Desaix83, d'après le travail de Томасина — CC BY-SA 3.0
+- sheepdog/09.jpg — [File:Old English Sheepdog-7-GCH-Peek-A-Boo's Onstar Cover Girl BN RN PT 02 (15962664134).jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog-7-GCH-Peek-A-Boo%27s_Onstar_Cover_Girl_BN_RN_PT_02_(15962664134).jpg) — Pets Adviser from Brooklyn, USA — CC BY 2.0
+- sheepdog/10.jpg — [File:Grupp 1, OLD ENGLISH SHEEPDOG, C.I.B. FI JV-11 NO UCH NORD V-13 NORD V-14 SE UCH Azedagi’s My Secret Adventure (23683385953).jpg](https://commons.wikimedia.org/wiki/File:Grupp_1,_OLD_ENGLISH_SHEEPDOG,_C.I.B._FI_JV-11_NO_UCH_NORD_V-13_NORD_V-14_SE_UCH_Azedagi%E2%80%99s_My_Secret_Adventure_(23683385953).jpg) — Svenska Mässan from Sweden — CC BY 2.0
+- sheepdog/11.jpg — [File:Photograph of an Old English Sheepdog - NARA - 34929544.jpg](https://commons.wikimedia.org/wiki/File:Photograph_of_an_Old_English_Sheepdog_-_NARA_-_34929544.jpg) — 
+- sheepdog/12.jpg — [File:Old English Sheepdog (side).jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog_(side).jpg) — AKS.9955 — CC BY-SA 4.0
+- sheepdog/13.jpg — [File:Old English Sheepdog Bobtail.jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog_Bobtail.jpg) — Canarian — CC BY-SA 4.0
+- sheepdog/14.jpg — [File:Old English Sheepdog (44958725052).jpg](https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog_(44958725052).jpg) — Esin Üstün from Istanbul, Turkey — CC BY 2.0
+- sheepdog/15.jpg — [File:Wet Old English Dog.jpg](https://commons.wikimedia.org/wiki/File:Wet_Old_English_Dog.jpg) — ? — Public domain
+- sheepdog/16.jpg — [File:Komondor Westminster Dog Show.jpg](https://commons.wikimedia.org/wiki/File:Komondor_Westminster_Dog_Show.jpg) — Flickr user whartonds — CC BY-SA 2.0
+- sheepdog/17.jpg — [File:Komondor lying.jpg](https://commons.wikimedia.org/wiki/File:Komondor_lying.jpg) — David Blaine from Spokane, USA — CC BY 2.0
+- sheepdog/18.jpg — [File:Komondor IMG 0329.JPG](https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG) — Kari — CC BY 2.5
+- sheepdog/19.jpg — [File:Komondor delvin.jpg](https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg) — Nikki68 at Russian Wikipedia — CC BY 2.5
+- sheepdog/20.jpg — [File:Komondor male 02.jpg](https://commons.wikimedia.org/wiki/File:Komondor_male_02.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/21.jpg — [File:Komondor male 03.jpg](https://commons.wikimedia.org/wiki/File:Komondor_male_03.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/22.jpg — [File:Komondor male 01.jpg](https://commons.wikimedia.org/wiki/File:Komondor_male_01.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/23.jpg — [File:Komondor female.jpg](https://commons.wikimedia.org/wiki/File:Komondor_female.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/24.jpg — [File:Komondor male 06.jpg](https://commons.wikimedia.org/wiki/File:Komondor_male_06.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/25.jpg — [File:Komondor female2.jpg](https://commons.wikimedia.org/wiki/File:Komondor_female2.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/26.jpg — [File:Komondor male 07.jpg](https://commons.wikimedia.org/wiki/File:Komondor_male_07.jpg) — Sagaciousphil — CC BY-SA 3.0
+- sheepdog/27.jpg — [File:Komondor - GCH Quintessential Chauncey3 (16416544029).jpg](https://commons.wikimedia.org/wiki/File:Komondor_-_GCH_Quintessential_Chauncey3_(16416544029).jpg) — Pets Adviser from Brooklyn, USA — CC BY 2.0
+- sheepdog/28.jpg — [File:Komondor - GCH Quintessential Chauncey5 (16601210641).jpg](https://commons.wikimedia.org/wiki/File:Komondor_-_GCH_Quintessential_Chauncey5_(16601210641).jpg) — Pets Adviser from Brooklyn, USA — CC BY 2.0
+- sheepdog/29.jpg — [File:Komondor - GCH Quintessential Chauncey 12 (16415191968).jpg](https://commons.wikimedia.org/wiki/File:Komondor_-_GCH_Quintessential_Chauncey_12_(16415191968).jpg) — Pets Adviser from Brooklyn, USA — CC BY 2.0
+- mop/00.jpg — [File:Mops cleaning equpement.jpg](https://commons.wikimedia.org/wiki/File:Mops_cleaning_equpement.jpg) — Shannon Clark from San Francisco, USA — CC BY-SA 2.0
+- mop/01.jpg — [File:Mop, classic yarn mop and handle (detail of threads).jpg](https://commons.wikimedia.org/wiki/File:Mop,_classic_yarn_mop_and_handle_(detail_of_threads).jpg) — Bjornwireen — Public domain
+- mop/02.jpg — [File:Mop, three different mop handles.jpg](https://commons.wikimedia.org/wiki/File:Mop,_three_different_mop_handles.jpg) — Bjornwireen — Public domain
+- mop/03.jpg — [File:Mop, velcro mop and handle.JPG](https://commons.wikimedia.org/wiki/File:Mop,_velcro_mop_and_handle.JPG) — Bjornwireen — Public domain
+- mop/04.jpg — [File:Mop-03-mika.jpg](https://commons.wikimedia.org/wiki/File:Mop-03-mika.jpg) — Mikamote — CC BY-SA 3.0
+- mop/05.jpg — [File:Mop-01-mika.jpg](https://commons.wikimedia.org/wiki/File:Mop-01-mika.jpg) — Mikamote — CC BY-SA 3.0
+- mop/06.jpg — [File:Mop-05-mika.jpg](https://commons.wikimedia.org/wiki/File:Mop-05-mika.jpg) — Mikamote — CC BY-SA 3.0
+- mop/07.jpg — [File:Mop-04-mika.jpg](https://commons.wikimedia.org/wiki/File:Mop-04-mika.jpg) — Mikamote — CC BY-SA 3.0
+- mop/08.jpg — [File:Mop wringer 1897.jpg](https://commons.wikimedia.org/wiki/File:Mop_wringer_1897.jpg) — Mcapdevila — CC BY-SA 3.0
+- mop/09.jpg — [File:Mop and bucket.jpg](https://commons.wikimedia.org/wiki/File:Mop_and_bucket.jpg) — W.carter — CC BY-SA 4.0
+- mop/10.jpg — [File:After Wikimania 2018, Cape Town (P1060093).jpg](https://commons.wikimedia.org/wiki/File:After_Wikimania_2018,_Cape_Town_(P1060093).jpg) — Matti Blume — CC BY-SA 4.0
+- mop/11.jpg — [File:Mop, doll's (AM 2013.51.8.2-1).jpg](https://commons.wikimedia.org/wiki/File:Mop,_doll%27s_(AM_2013.51.8.2-1).jpg) — 
+- mop/12.jpg — [File:Mop, doll's (AM 2013.51.8.2-2).jpg](https://commons.wikimedia.org/wiki/File:Mop,_doll%27s_(AM_2013.51.8.2-2).jpg) — 
+- mop/13.jpg — [File:A mop Stick.jpg](https://commons.wikimedia.org/wiki/File:A_mop_Stick.jpg) — Kid Keen 47 — CC BY-SA 4.0
+- mop/14.jpg — [File:Uncommon Ground - Saugatuck MI - Flickr - ^Ann Gordon.jpg](https://commons.wikimedia.org/wiki/File:Uncommon_Ground_-_Saugatuck_MI_-_Flickr_-_%5EAnn_Gordon.jpg) — *Ann Gordon — CC BY-SA 2.0
+- mop/15.jpg — [File:MOP SO36 2020-02-19.jpg](https://commons.wikimedia.org/wiki/File:MOP_SO36_2020-02-19.jpg) — Montecruz Foto — CC BY-SA 4.0
+- mop/16.jpg — [File:Metal mop bucket.jpg](https://commons.wikimedia.org/wiki/File:Metal_mop_bucket.jpg) — Pancho507 — CC BY-SA 4.0
+- mop/17.jpg — [File:Blue mop and mop bucket in the back of McDonald's.jpg](https://commons.wikimedia.org/wiki/File:Blue_mop_and_mop_bucket_in_the_back_of_McDonald%27s.jpg) — Ser Amantio di Nicolao — CC BY-SA 3.0
+- mop/18.jpg — [File:Mop buckets 02.jpg](https://commons.wikimedia.org/wiki/File:Mop_buckets_02.jpg) — FBenjr123 — CC BY-SA 4.0
+- mop/19.jpg — [File:Mop buckets 01.jpg](https://commons.wikimedia.org/wiki/File:Mop_buckets_01.jpg) — FBenjr123 — CC BY-SA 4.0
+- mop/20.jpg — [File:The Tools.jpg](https://commons.wikimedia.org/wiki/File:The_Tools.jpg) — DiegoKR — CC BY-SA 4.0
+- mop/21.jpg — [File:Mop and bucket, 7-Eleven.jpg](https://commons.wikimedia.org/wiki/File:Mop_and_bucket,_7-Eleven.jpg) — Ser Amantio di Nicolao — CC BY-SA 4.0
+- mop/22.jpg — [File:Grace Shrock-Hurst mops floor Our Community Place in Harrisonburg VA May 2008.jpg](https://commons.wikimedia.org/wiki/File:Grace_Shrock-Hurst_mops_floor_Our_Community_Place_in_Harrisonburg_VA_May_2008.jpg) — Artaxerxes — CC BY-SA 3.0
+- mop/23.jpg — [File:Chinese Mop Peking 06.JPG](https://commons.wikimedia.org/wiki/File:Chinese_Mop_Peking_06.JPG) — Immanuel Gieli — CC BY-SA 4.0
+- mop/24.jpg — [File:Mikrofiber Mop 40 cm.jpg](https://commons.wikimedia.org/wiki/File:Mikrofiber_Mop_40_cm.jpg) — Canberk Demircioglu — CC BY-SA 4.0
