@@ -320,3 +320,197 @@
 - mop/22.jpg — [File:Grace Shrock-Hurst mops floor Our Community Place in Harrisonburg VA May 2008.jpg](https://commons.wikimedia.org/wiki/File:Grace_Shrock-Hurst_mops_floor_Our_Community_Place_in_Harrisonburg_VA_May_2008.jpg) — Artaxerxes — CC BY-SA 3.0
 - mop/23.jpg — [File:Chinese Mop Peking 06.JPG](https://commons.wikimedia.org/wiki/File:Chinese_Mop_Peking_06.JPG) — Immanuel Gieli — CC BY-SA 4.0
 - mop/24.jpg — [File:Mikrofiber Mop 40 cm.jpg](https://commons.wikimedia.org/wiki/File:Mikrofiber_Mop_40_cm.jpg) — Canberk Demircioglu — CC BY-SA 4.0
+- pizza/00.jpg — [File:Eq it-na pizza-margherita sep2005 sml.jpg](https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg) — Valerio Capello at English Wikipedia — CC BY-SA 3.0
+- pizza/01.jpg — [File:Pizza with mushrooms and cheese.jpg](https://commons.wikimedia.org/wiki/File:Pizza_with_mushrooms_and_cheese.jpg) — LEi - DESIGN — CC0
+- pizza/02.jpg — [File:Pizza with juice.jpg](https://commons.wikimedia.org/wiki/File:Pizza_with_juice.jpg) — Sona Shrestha — CC BY-SA 4.0
+- pizza/03.jpg — [File:Pizza and Chapman.jpg](https://commons.wikimedia.org/wiki/File:Pizza_and_Chapman.jpg) — FaridhaSL — CC BY-SA 4.0
+- pizza/04.jpg — [File:Pizza basil.jpg](https://commons.wikimedia.org/wiki/File:Pizza_basil.jpg) — jeffreyw — CC BY 2.0
+- pizza/05.jpg — [File:Pizza 10.jpg](https://commons.wikimedia.org/wiki/File:Pizza_10.jpg) — Kurt Kaiser — CC0
+- pizza/06.jpg — [File:Pizza 11.jpg](https://commons.wikimedia.org/wiki/File:Pizza_11.jpg) — Kurt Kaiser — CC0
+- pizza/07.jpg — [File:Pizza 13.jpg](https://commons.wikimedia.org/wiki/File:Pizza_13.jpg) — Kurt Kaiser — CC0
+- pizza/08.jpg — [File:Pizza 14.jpg](https://commons.wikimedia.org/wiki/File:Pizza_14.jpg) — Kurt Kaiser — CC0
+- pizza/09.jpg — [File:Pizza 15.jpg](https://commons.wikimedia.org/wiki/File:Pizza_15.jpg) — Kurt Kaiser — CC0
+- pizza/10.jpg — [File:Pizza 33.jpg](https://commons.wikimedia.org/wiki/File:Pizza_33.jpg) — Kurt Kaiser — CC0
+- pizza/11.jpg — [File:Vegetarian Pizza.jpg](https://commons.wikimedia.org/wiki/File:Vegetarian_Pizza.jpg) — Petar Milošević — CC BY-SA 4.0
+- pizza/12.jpg — [File:L&B Spumoni Gardens pizza (41436).jpg](https://commons.wikimedia.org/wiki/File:L%26B_Spumoni_Gardens_pizza_(41436).jpg) — Rhododendrites — CC BY-SA 4.0
+- pizza/13.jpg — [File:Pizza in Gaborone.jpg](https://commons.wikimedia.org/wiki/File:Pizza_in_Gaborone.jpg) — Shoodho — CC BY-SA 4.0
+- pizza/14.jpg — [File:Pizza 35.jpg](https://commons.wikimedia.org/wiki/File:Pizza_35.jpg) — Sri Namagiri Mahalakshmi Baskaran — CC BY 3.0
+- pizza/15.jpg — [File:Pizza 36.jpg](https://commons.wikimedia.org/wiki/File:Pizza_36.jpg) — Ahamed Kafir M — CC BY-SA 4.0
+- pizza/16.jpg — [File:Pizza 37.jpg](https://commons.wikimedia.org/wiki/File:Pizza_37.jpg) — Geology HK — CC BY-SA 4.0
+- pizza/17.jpg — [File:Pizza 0.jpg](https://commons.wikimedia.org/wiki/File:Pizza_0.jpg) — Gd giri — CC BY-SA 4.0
+- pizza/18.jpg — [File:Pizza Kebab.jpg](https://commons.wikimedia.org/wiki/File:Pizza_Kebab.jpg) — Cyapoj — CC BY-SA 4.0
+- pizza/19.jpg — [File:Potato-pizza-1.jpg](https://commons.wikimedia.org/wiki/File:Potato-pizza-1.jpg) — 些細な日常 — CC BY-SA 4.0
+- pizza/20.jpg — [File:Pizza 2023.jpg](https://commons.wikimedia.org/wiki/File:Pizza_2023.jpg) — Yakshitha — CC BY-SA 4.0
+- pizza/21.jpg — [File:Pizza, momos.jpg](https://commons.wikimedia.org/wiki/File:Pizza,_momos.jpg) — Lakshmipriya Pugal — CC0
+- pizza/22.jpg — [File:Chicken Pizza 1.jpg](https://commons.wikimedia.org/wiki/File:Chicken_Pizza_1.jpg) — Gaurav Dhwaj Khadka — CC BY-SA 4.0
+- pizza/23.jpg — [File:Pizza 34.jpg](https://commons.wikimedia.org/wiki/File:Pizza_34.jpg) — Hegde Neha — CC BY-SA 4.0
+- car/00.jpg — [File:NCP Parking Brewer Street London.JPG](https://commons.wikimedia.org/wiki/File:NCP_Parking_Brewer_Street_London.JPG) — Philafrenzy — CC BY-SA 4.0
+- car/01.jpg — [File:Lexington Street London.JPG](https://commons.wikimedia.org/wiki/File:Lexington_Street_London.JPG) — Philafrenzy — CC BY-SA 4.0
+- car/02.jpg — [File:Welbeck Street Car Park 02.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_02.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/03.jpg — [File:Welbeck Street Car Park 04.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_04.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/04.jpg — [File:Welbeck Street Car Park 01.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_01.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/05.jpg — [File:Welbeck Street Car Park 03.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_03.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/06.jpg — [File:Welbeck Street Car Park 07.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_07.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/07.jpg — [File:Welbeck Street Car Park 06.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_06.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/08.jpg — [File:Welbeck Street Car Park 05.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_05.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/09.jpg — [File:Welbeck Street Car Park 26 Nov 2016 01.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_26_Nov_2016_01.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/10.jpg — [File:Welbeck Street Car Park 26 Nov 2016 03.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_26_Nov_2016_03.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/11.jpg — [File:Welbeck Street Car Park 26 Nov 2016 02.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_26_Nov_2016_02.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/12.jpg — [File:Welbeck Street Car Park Dec 2016 02.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_Dec_2016_02.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/13.jpg — [File:Welbeck Street Car Park Dec 2016 01.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_Dec_2016_01.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/14.jpg — [File:Welbeck Street Car Park Dec 2016 03.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_Dec_2016_03.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/15.jpg — [File:Welbeck Street Car Park Dec 2016 05.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_Dec_2016_05.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/16.jpg — [File:Welbeck Street Car Park Dec 2016 04.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_Dec_2016_04.jpg) — Philafrenzy — CC BY-SA 4.0
+- car/17.jpg — [File:Welbeck Street Car Park detail (33001000195).jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park_detail_(33001000195).jpg) — Jeremy Segrott from Cardiff, Wales, UK — CC BY 2.0
+- car/18.jpg — [File:Welbeck Street Car Park, 19 February 2017.jpg](https://commons.wikimedia.org/wiki/File:Welbeck_Street_Car_Park,_19_February_2017.jpg) — Jeremy Segrott from Cardiff, Wales, UK — CC BY 2.0
+- car/19.jpg — [File:Abandoned car in Marine Park (10852p).jpg](https://commons.wikimedia.org/wiki/File:Abandoned_car_in_Marine_Park_(10852p).jpg) — Rhododendrites — CC BY-SA 4.0
+- car/20.jpg — [File:Car park London W1.jpg](https://commons.wikimedia.org/wiki/File:Car_park_London_W1.jpg) — sludgegulper — CC BY-SA 2.0
+- car/21.jpg — [File:Car park London W1 - 33761448178.jpg](https://commons.wikimedia.org/wiki/File:Car_park_London_W1_-_33761448178.jpg) — sludgegulper — CC BY-SA 2.0
+- car/22.jpg — [File:Car Park on Brewer Street - geograph.org.uk - 2020372.jpg](https://commons.wikimedia.org/wiki/File:Car_Park_on_Brewer_Street_-_geograph.org.uk_-_2020372.jpg) — David Anstiss  — CC BY-SA 2.0
+- car/23.jpg — [File:Car park, Henrietta Place - geograph.org.uk - 2677843.jpg](https://commons.wikimedia.org/wiki/File:Car_park,_Henrietta_Place_-_geograph.org.uk_-_2677843.jpg) — Stephen Richards  — CC BY-SA 2.0
+- airplane/00.jpg — [File:Patrouille de France Radom 3 1.JPG](https://commons.wikimedia.org/wiki/File:Patrouille_de_France_Radom_3_1.JPG) — Łukasz Golowanow — Attribution
+- airplane/01.jpg — [File:Aeroflot Airbus A330 Kustov.jpg](https://commons.wikimedia.org/wiki/File:Aeroflot_Airbus_A330_Kustov.jpg) — Sergey Kustov — CC BY-SA 3.0
+- airplane/02.jpg — [File:Sukhoi SuperJet 100 (5114478300).jpg](https://commons.wikimedia.org/wiki/File:Sukhoi_SuperJet_100_(5114478300).jpg) — SuperJet International — CC BY-SA 2.0
+- airplane/03.jpg — [File:Air-to-air photo of a Sukhoi Superjet 100 (97004) over Italy.jpg](https://commons.wikimedia.org/wiki/File:Air-to-air_photo_of_a_Sukhoi_Superjet_100_(97004)_over_Italy.jpg) — Katsuhiko Tokunaga/SuperJet  International — CC BY-SA 2.0
+- airplane/04.jpg — [File:Blériot XI Thulin A Mikael Carlson OTT 2013 10 silhouette.jpg](https://commons.wikimedia.org/wiki/File:Bl%C3%A9riot_XI_Thulin_A_Mikael_Carlson_OTT_2013_10_silhouette.jpg) — Julian Herzog (Website) — CC BY 4.0
+- airplane/05.jpg — [File:Frecce Tricolori - Aire 75 - 01.jpg](https://commons.wikimedia.org/wiki/File:Frecce_Tricolori_-_Aire_75_-_01.jpg) — Carlos Delgado — CC BY-SA 4.0
+- airplane/06.jpg — [File:Greenland Express Fokker F100 at Lviv International Airport (original).jpg](https://commons.wikimedia.org/wiki/File:Greenland_Express_Fokker_F100_at_Lviv_International_Airport_(original).jpg) — Oleg Volkov — CC BY-SA 4.0
+- airplane/07.jpg — [File:South African Airways Airbus A340-313 ZS-SXE MUC 2015 02.jpg](https://commons.wikimedia.org/wiki/File:South_African_Airways_Airbus_A340-313_ZS-SXE_MUC_2015_02.jpg) — Julian Herzog (Website) — CC BY 4.0
+- airplane/08.jpg — [File:Emirates Airbus A380-861 A6-EER MUC 2015 01.jpg](https://commons.wikimedia.org/wiki/File:Emirates_Airbus_A380-861_A6-EER_MUC_2015_01.jpg) — Julian Herzog (Website) — CC BY 4.0
+- airplane/09.jpg — [File:Airbus A350-941 F-WWCF MSN002 ILA Berlin 2016 17.jpg](https://commons.wikimedia.org/wiki/File:Airbus_A350-941_F-WWCF_MSN002_ILA_Berlin_2016_17.jpg) — Julian Herzog (Website) — CC BY 4.0
+- airplane/10.jpg — [File:Playing in the Nuba mountains.jpg](https://commons.wikimedia.org/wiki/File:Playing_in_the_Nuba_mountains.jpg) — Marco Gualazzini — CC BY-SA 4.0
+- airplane/11.jpg — [File:Airplane in the bue sky.jpg](https://commons.wikimedia.org/wiki/File:Airplane_in_the_bue_sky.jpg) — Alexey Kashevnik — CC BY 4.0
+- airplane/12.jpg — [File:Airplane flying in the sky.jpg](https://commons.wikimedia.org/wiki/File:Airplane_flying_in_the_sky.jpg) — Yann Kemper — CC0
+- airplane/13.jpg — [File:Airplane!.jpg](https://commons.wikimedia.org/wiki/File:Airplane!.jpg) — Yannkemper — CC0
+- airplane/14.jpg — [File:2017-09-12 Atlantic Airways (Faroe Islands) Airbus A319 aircraft (OY-RCG) at Narsarsuaq, Greenland.jpg](https://commons.wikimedia.org/wiki/File:2017-09-12_Atlantic_Airways_(Faroe_Islands)_Airbus_A319_aircraft_(OY-RCG)_at_Narsarsuaq,_Greenland.jpg) — Gordon Leggett — CC BY-SA 4.0
+- airplane/15.jpg — [File:A beautiful sunset with the silhoutte of an airplane flying across the image frame.jpg](https://commons.wikimedia.org/wiki/File:A_beautiful_sunset_with_the_silhoutte_of_an_airplane_flying_across_the_image_frame.jpg) — Subhrajyoti07 — CC BY-SA 4.0
+- airplane/16.jpg — [File:Kingfisher Airlines airplane at the Chennai International Airport (MMA).jpg](https://commons.wikimedia.org/wiki/File:Kingfisher_Airlines_airplane_at_the_Chennai_International_Airport_(MMA).jpg) — Matthew T Rader — CC BY-SA 4.0
+- airplane/17.jpg — [File:Airplane hangar.jpg](https://commons.wikimedia.org/wiki/File:Airplane_hangar.jpg) — Balise42 — CC BY-SA 4.0
+- airplane/18.jpg — [File:Wizz airplane in Kutaisi airport.jpg](https://commons.wikimedia.org/wiki/File:Wizz_airplane_in_Kutaisi_airport.jpg) — Александр Сапожников — CC BY-SA 4.0
+- airplane/19.jpg — [File:Airplane at Kokomo Municipal Airport.jpg](https://commons.wikimedia.org/wiki/File:Airplane_at_Kokomo_Municipal_Airport.jpg) — ONUnicorn — CC BY-SA 4.0
+- airplane/20.jpg — [File:September 2006, airplane in Reykjavik.jpg](https://commons.wikimedia.org/wiki/File:September_2006,_airplane_in_Reykjavik.jpg) — Syced — CC0
+- airplane/21.jpg — [File:Airplane window capture.jpg](https://commons.wikimedia.org/wiki/File:Airplane_window_capture.jpg) — Marcelomenezes96 — CC BY 4.0
+- airplane/22.jpg — [File:An airplane above Sao Paulo.jpg](https://commons.wikimedia.org/wiki/File:An_airplane_above_Sao_Paulo.jpg) — Slyronit — CC BY-SA 4.0
+- airplane/23.jpg — [File:Airplane in sky.jpg](https://commons.wikimedia.org/wiki/File:Airplane_in_sky.jpg) — Henryemix — CC0
+- boat/00.jpg — [File:A storm at Pors-Loubous.jpg](https://commons.wikimedia.org/wiki/File:A_storm_at_Pors-Loubous.jpg) — Henri Camus — CC BY 1.0
+- boat/01.jpg — [File:Puvar 20080220-1.jpg](https://commons.wikimedia.org/wiki/File:Puvar_20080220-1.jpg) — Hans A. Rosbach — CC BY-SA 3.0
+- boat/02.jpg — [File:Mergozzo-0030.jpg](https://commons.wikimedia.org/wiki/File:Mergozzo-0030.jpg) — Mbdortmund — GFDL 1.2
+- boat/03.jpg — [File:EllstromManufacturingHydroplane.jpg](https://commons.wikimedia.org/wiki/File:EllstromManufacturingHydroplane.jpg) — Joe Schneid, Louisville, Kentucky — CC BY 3.0
+- boat/04.jpg — [File:US Navy 090210-N-9671T-144 A port security boat patrols the waters near Kuwait Naval Base.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_090210-N-9671T-144_A_port_security_boat_patrols_the_waters_near_Kuwait_Naval_Base.jpg) — U.S. Navy photo by Mass Communication Specialist 2nd Class K — Public domain
+- boat/05.jpg — [File:Fishing boat Nørre Vorupør 2012-11-18 cropped.jpg](https://commons.wikimedia.org/wiki/File:Fishing_boat_N%C3%B8rre_Vorup%C3%B8r_2012-11-18_cropped.jpg) — Slaunger — CC BY-SA 3.0
+- boat/06.jpg — [File:Pilot boat at Landsort April 2012.jpg](https://commons.wikimedia.org/wiki/File:Pilot_boat_at_Landsort_April_2012.jpg) — Arild Vågen — CC BY-SA 3.0
+- boat/07.jpg — [File:Rowing boat on a house roof - Fira - Santorini - Greece - 02.jpg](https://commons.wikimedia.org/wiki/File:Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg) — Norbert Nagel — CC BY-SA 3.0
+- boat/08.jpg — [File:Acapulco fishermen.jpg](https://commons.wikimedia.org/wiki/File:Acapulco_fishermen.jpg) — Tomascastelazo — CC BY-SA 3.0
+- boat/09.jpg — [File:Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13.JPG](https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG) — Diego Delso — CC BY-SA 3.0
+- boat/10.jpg — [File:Fishing boats, morning, Beach, Rincon de la Victoria, Andalusia, Spain.jpg](https://commons.wikimedia.org/wiki/File:Fishing_boats,_morning,_Beach,_Rincon_de_la_Victoria,_Andalusia,_Spain.jpg) — Jebulon — CC0
+- boat/11.jpg — [File:Museo marítimo Ósvör, Bolungarvík, Vestfirðir, Islandia, 2014-08-15, DD 066.JPG](https://commons.wikimedia.org/wiki/File:Museo_mar%C3%ADtimo_%C3%93sv%C3%B6r,_Bolungarv%C3%ADk,_Vestfir%C3%B0ir,_Islandia,_2014-08-15,_DD_066.JPG) — Diego Delso — CC BY-SA 4.0
+- boat/12.jpg — [File:Соловецкий монастырь.jpg](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C.jpg) — Алексей Задонский — CC BY-SA 4.0
+- boat/13.jpg — [File:Boat with autumny mountains at Digermulen, Hinnøya, Norway, Norway, 2015 September.jpg](https://commons.wikimedia.org/wiki/File:Boat_with_autumny_mountains_at_Digermulen,_Hinn%C3%B8ya,_Norway,_Norway,_2015_September.jpg) — Ximonic (Simo Räsänen) — CC BY-SA 3.0
+- boat/14.jpg — [File:20151030 Syrians and Iraq refugees arrive at Skala Sykamias Lesvos Greece 2.jpg](https://commons.wikimedia.org/wiki/File:20151030_Syrians_and_Iraq_refugees_arrive_at_Skala_Sykamias_Lesvos_Greece_2.jpg) — Ggia — CC BY-SA 4.0
+- boat/15.jpg — [File:20160803 - Meiktila, Myanmar - Phaung Daw U Pagoda - 7321.jpg](https://commons.wikimedia.org/wiki/File:20160803_-_Meiktila,_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg) — Jakub Hałun — CC BY-SA 4.0
+- boat/16.jpg — [File:A boat rests unused near the Acheloos river delta.jpg](https://commons.wikimedia.org/wiki/File:A_boat_rests_unused_near_the_Acheloos_river_delta.jpg) — Dimitrios Tzortzis — CC BY-SA 4.0
+- boat/17.jpg — [File:Étang de Thau, Sète cf01.jpg](https://commons.wikimedia.org/wiki/File:%C3%89tang_de_Thau,_S%C3%A8te_cf01.jpg) — Christian Ferrer — CC BY 4.0
+- boat/18.jpg — [File:Zöbigker Hafen, Cospudener See, Markkleeberg, 1709102012, ako.jpg](https://commons.wikimedia.org/wiki/File:Z%C3%B6bigker_Hafen,_Cospudener_See,_Markkleeberg,_1709102012,_ako.jpg) — Ansgar Koreng — CC BY-SA 4.0
+- boat/19.jpg — [File:Vents du Sud - Le Grau-du-Roi 04.jpg](https://commons.wikimedia.org/wiki/File:Vents_du_Sud_-_Le_Grau-du-Roi_04.jpg) — Christian Ferrer — CC BY 4.0
+- boat/20.jpg — [File:Fishing hut, jetties and boats in Loddebo.jpg](https://commons.wikimedia.org/wiki/File:Fishing_hut,_jetties_and_boats_in_Loddebo.jpg) — W.carter — CC0
+- boat/21.jpg — [File:Ratargul-02.jpg](https://commons.wikimedia.org/wiki/File:Ratargul-02.jpg) — Abdulmominbd — CC BY-SA 4.0
+- boat/22.jpg — [File:Catalan boats - Sète.jpg](https://commons.wikimedia.org/wiki/File:Catalan_boats_-_S%C3%A8te.jpg) — Christian Ferrer — CC BY 4.0
+- boat/23.jpg — [File:Boats on the Mekong with dark clouds and blue sky in the late afternoon in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Boats_on_the_Mekong_with_dark_clouds_and_blue_sky_in_the_late_afternoon_in_Luang_Prabang_Laos.jpg) — Basile Morin — CC BY-SA 4.0
+- bridge/00.jpg — [File:Bridge Alcantara.JPG](https://commons.wikimedia.org/wiki/File:Bridge_Alcantara.JPG) — Dantla from de.wikipedia — GFDL
+- bridge/01.jpg — [File:New River Gorge Bridge.jpg](https://commons.wikimedia.org/wiki/File:New_River_Gorge_Bridge.jpg) — JaGa — CC BY-SA 4.0
+- bridge/02.jpg — [File:Rogue River Oregon USA.jpg](https://commons.wikimedia.org/wiki/File:Rogue_River_Oregon_USA.jpg) — Hamad Darwish from Medford, Oregon, USA — CC BY 2.0
+- bridge/03.jpg — [File:Bridge on Chambal river, India.jpg](https://commons.wikimedia.org/wiki/File:Bridge_on_Chambal_river,_India.jpg) — Yann (talk) — CC BY-SA 4.0
+- bridge/04.jpg — [File:View to Moscow river from Bolshoy Moskvoretsky Bridge.jpg](https://commons.wikimedia.org/wiki/File:View_to_Moscow_river_from_Bolshoy_Moskvoretsky_Bridge.jpg) — This photo was taken by Anton Zelenov.
+Please credit this wi — CC BY 3.0
+- bridge/05.jpg — [File:Hérault River, Agde 09.jpg](https://commons.wikimedia.org/wiki/File:H%C3%A9rault_River,_Agde_09.jpg) — Christian Ferrer — CC BY-SA 4.0
+- bridge/06.jpg — [File:Sant'Angelo bridge, dusk, Rome, Italy.jpg](https://commons.wikimedia.org/wiki/File:Sant%27Angelo_bridge,_dusk,_Rome,_Italy.jpg) — Jebulon — CC0
+- bridge/07.jpg — [File:Taipei Taiwan Taipei-Bridge-01.jpg](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Taipei-Bridge-01.jpg) — CEphoto, Uwe Aranas — CC BY-SA 3.0
+- bridge/08.jpg — [File:Indian River Inlet Bridge DE1.jpg](https://commons.wikimedia.org/wiki/File:Indian_River_Inlet_Bridge_DE1.jpg) — Acroterion — CC BY-SA 4.0
+- bridge/09.jpg — [File:Flood under the Old Route 49 bridge crossing over the South Yuba River in Nevada City, California.jpg](https://commons.wikimedia.org/wiki/File:Flood_under_the_Old_Route_49_bridge_crossing_over_the_South_Yuba_River_in_Nevada_City,_California.jpg) — Kelly M. Grow/ California Department of Water Resources — Public domain
+- bridge/10.jpg — [File:Bridge on the River Kwai - tourist plaza.JPG](https://commons.wikimedia.org/wiki/File:Bridge_on_the_River_Kwai_-_tourist_plaza.JPG) — PumpkinSky — CC BY-SA 4.0
+- bridge/11.jpg — [File:River Suir Bridge, Waterford.jpg](https://commons.wikimedia.org/wiki/File:River_Suir_Bridge,_Waterford.jpg) — DeFacto — CC BY-SA 4.0
+- bridge/12.jpg — [File:Paton Bridge, the Dnieper River and the Berezniaky neighbourhood at sunset. Kiev, Ukraine.jpg](https://commons.wikimedia.org/wiki/File:Paton_Bridge,_the_Dnieper_River_and_the_Berezniaky_neighbourhood_at_sunset._Kiev,_Ukraine.jpg) — Ввласенко — CC BY-SA 3.0
+- bridge/13.jpg — [File:Togetsu-kyo bridge at dusk, Kyoto, Japan.jpg](https://commons.wikimedia.org/wiki/File:Togetsu-kyo_bridge_at_dusk,_Kyoto,_Japan.jpg) — Basile Morin — CC BY-SA 4.0
+- bridge/14.jpg — [File:Perth (AU), Elizabeth Quay Bridge -- 2019 -- 0375-9.jpg](https://commons.wikimedia.org/wiki/File:Perth_(AU),_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- bridge/15.jpg — [File:Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1811.jpg](https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- bridge/16.jpg — [File:X-shaped pedestrian Sakura bridge over Sumida river, linking Taitō and Sumida wards, view from Tokyo Skytree, Japan.jpg](https://commons.wikimedia.org/wiki/File:X-shaped_pedestrian_Sakura_bridge_over_Sumida_river,_linking_Tait%C5%8D_and_Sumida_wards,_view_from_Tokyo_Skytree,_Japan.jpg) — Basile Morin — CC BY-SA 4.0
+- bridge/17.jpg — [File:Bridge over a river in winter.jpg](https://commons.wikimedia.org/wiki/File:Bridge_over_a_river_in_winter.jpg) — Yitzilitt — CC BY-SA 4.0
+- bridge/18.jpg — [File:Landscape with rainbow and the Old Bridge over the Nam Khan river in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Landscape_with_rainbow_and_the_Old_Bridge_over_the_Nam_Khan_river_in_Luang_Prabang_Laos.jpg) — Basile Morin — CC BY-SA 4.0
+- bridge/19.jpg — [File:Ada Bridge pylon (Sava river, Belgrade).jpg](https://commons.wikimedia.org/wiki/File:Ada_Bridge_pylon_(Sava_river,_Belgrade).jpg) — Petar Milošević — CC BY-SA 4.0
+- bridge/20.jpg — [File:View from Mount Phou Si with the old French bridge over the Nam Khan river in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:View_from_Mount_Phou_Si_with_the_old_French_bridge_over_the_Nam_Khan_river_in_Luang_Prabang_Laos.jpg) — Basile Morin — CC BY-SA 4.0
+- bridge/21.jpg — [File:Boat passing under Elgin Bridge during blue hour (2023)-L1003785.jpg](https://commons.wikimedia.org/wiki/File:Boat_passing_under_Elgin_Bridge_during_blue_hour_(2023)-L1003785.jpg) — Frank Schulenburg — CC BY-SA 4.0
+- bridge/22.jpg — [File:Bridge over the Lahn river 2 (P1100675).jpg](https://commons.wikimedia.org/wiki/File:Bridge_over_the_Lahn_river_2_(P1100675).jpg) — Celestinesucess — CC BY-SA 4.0
+- bridge/23.jpg — [File:River Liffey, Butt Bridge and Loopline Bridge.jpg](https://commons.wikimedia.org/wiki/File:River_Liffey,_Butt_Bridge_and_Loopline_Bridge.jpg) — Christian David — CC BY-SA 4.0
+- palm/00.jpg — [File:Asian Palm Civet Over A Tree.jpg](https://commons.wikimedia.org/wiki/File:Asian_Palm_Civet_Over_A_Tree.jpg) — Praveenp — CC BY-SA 3.0
+- palm/01.jpg — [File:San Juan Valley.jpg](https://commons.wikimedia.org/wiki/File:San_Juan_Valley.jpg) — Wilfredor — CC0
+- palm/02.jpg — [File:Girl selling Palm Sunday palms and devotional cards in Maracaibo, Venezuela.jpg](https://commons.wikimedia.org/wiki/File:Girl_selling_Palm_Sunday_palms_and_devotional_cards_in_Maracaibo,_Venezuela.jpg) — Wilfredor — CC0
+- palm/03.jpg — [File:Arecaceae.jpg](https://commons.wikimedia.org/wiki/File:Arecaceae.jpg) — Rjcastillo — CC BY-SA 3.0
+- palm/04.jpg — [File:Faro del cabo Espartel, Marruecos, 2015-12-11, DD 02.JPG](https://commons.wikimedia.org/wiki/File:Faro_del_cabo_Espartel,_Marruecos,_2015-12-11,_DD_02.JPG) — Diego Delso — CC BY-SA 4.0
+- palm/05.jpg — [File:Johann Moritz Rugendas (1802-1858) . Litografia aquarelada 1835.jpg](https://commons.wikimedia.org/wiki/File:Johann_Moritz_Rugendas_(1802-1858)_._Litografia_aquarelada_1835.jpg) — Johann Moritz Rugendas — CC BY-SA 4.0
+- palm/06.jpg — [File:Two Arecaceae in the fields viewed through a hole in a tree stump in Laos at sunrise.jpg](https://commons.wikimedia.org/wiki/File:Two_Arecaceae_in_the_fields_viewed_through_a_hole_in_a_tree_stump_in_Laos_at_sunrise.jpg) — Basile Morin — CC BY-SA 4.0
+- palm/07.jpg — [File:Two Arecaceae in the fields viewed through a hole in a tree trunk in Laos at sunset.jpg](https://commons.wikimedia.org/wiki/File:Two_Arecaceae_in_the_fields_viewed_through_a_hole_in_a_tree_trunk_in_Laos_at_sunset.jpg) — Basile Morin — CC BY-SA 4.0
+- palm/08.jpg — [File:Two Arecaceae in the fields viewed through a hole in a tree trunk in Laos at sunrise.jpg](https://commons.wikimedia.org/wiki/File:Two_Arecaceae_in_the_fields_viewed_through_a_hole_in_a_tree_trunk_in_Laos_at_sunrise.jpg) — Basile Morin — CC BY-SA 4.0
+- palm/09.jpg — [File:River bank of Don Khon with stilt wooden houses and leaning Arecaceae at golden hour from Don Det Laos.jpg](https://commons.wikimedia.org/wiki/File:River_bank_of_Don_Khon_with_stilt_wooden_houses_and_leaning_Arecaceae_at_golden_hour_from_Don_Det_Laos.jpg) — Basile Morin — CC BY-SA 4.0
+- palm/10.jpg — [File:Palm trees in Ayia Marina Chrysochous, Cyprus.jpg](https://commons.wikimedia.org/wiki/File:Palm_trees_in_Ayia_Marina_Chrysochous,_Cyprus.jpg) — Michal Klajban — CC BY-SA 4.0
+- palm/11.jpg — [File:Three palm trees during the sunset, Ayia Marina Chrysochous, Paphos District, Cyprus 02.jpg](https://commons.wikimedia.org/wiki/File:Three_palm_trees_during_the_sunset,_Ayia_Marina_Chrysochous,_Paphos_District,_Cyprus_02.jpg) — Michal Klajban — CC BY-SA 4.0
+- palm/12.jpg — [File:Palm Tree at Sunrise.jpg](https://commons.wikimedia.org/wiki/File:Palm_Tree_at_Sunrise.jpg) — Noah Wulf — CC BY-SA 4.0
+- palm/13.jpg — [File:Palm tree Alcazar of Seville.jpg](https://commons.wikimedia.org/wiki/File:Palm_tree_Alcazar_of_Seville.jpg) — Tesla Delacroix — CC BY-SA 4.0
+- palm/14.jpg — [File:Canary Palm Tree.jpg](https://commons.wikimedia.org/wiki/File:Canary_Palm_Tree.jpg) — SalieL — CC BY-SA 4.0
+- palm/15.jpg — [File:Palm tree in an institution.jpg](https://commons.wikimedia.org/wiki/File:Palm_tree_in_an_institution.jpg) — Chandapiwa Malema — CC BY-SA 4.0
+- palm/16.jpg — [File:Palm tree in the Palm House in Poznan.jpg](https://commons.wikimedia.org/wiki/File:Palm_tree_in_the_Palm_House_in_Poznan.jpg) — Nortix08 — CC BY-SA 4.0
+- palm/17.jpg — [File:Young Palm tree.jpg](https://commons.wikimedia.org/wiki/File:Young_Palm_tree.jpg) — Andikan Efiok Eduok — CC BY-SA 4.0
+- palm/18.jpg — [File:Matured Palm tree farm.jpg](https://commons.wikimedia.org/wiki/File:Matured_Palm_tree_farm.jpg) — Andikan Efiok Eduok — CC BY-SA 4.0
+- palm/19.jpg — [File:Ready Palm tree.jpg](https://commons.wikimedia.org/wiki/File:Ready_Palm_tree.jpg) — Kih Denis — CC0
+- palm/20.jpg — [File:Sunrise through palm trees at the Doha Corniche.jpg](https://commons.wikimedia.org/wiki/File:Sunrise_through_palm_trees_at_the_Doha_Corniche.jpg) — Alex Sergeev (www.asergeev.com) — CC BY-SA 3.0
+- palm/21.jpg — [File:Palm Tree at Koh Chang.jpg](https://commons.wikimedia.org/wiki/File:Palm_Tree_at_Koh_Chang.jpg) — Slyronit — CC BY-SA 4.0
+- palm/22.jpg — [File:Palm tree seedling's.jpg](https://commons.wikimedia.org/wiki/File:Palm_tree_seedling%27s.jpg) — Abike25 — CC BY-SA 4.0
+- palm/23.jpg — [File:Palm tree carrying some palm fruits.jpg](https://commons.wikimedia.org/wiki/File:Palm_tree_carrying_some_palm_fruits.jpg) — Akum20 — CC BY-SA 4.0
+- banana/00.jpg — [File:Banana, Congo.jpg](https://commons.wikimedia.org/wiki/File:Banana,_Congo.jpg) — Unknown authorUnknown author — Public domain
+- banana/01.jpg — [File:Kerala banana chips Upperi varuthath.jpg](https://commons.wikimedia.org/wiki/File:Kerala_banana_chips_Upperi_varuthath.jpg) — Ramesh NG — CC BY-SA 2.0
+- banana/02.jpg — [File:Kadalikkula.JPG](https://commons.wikimedia.org/wiki/File:Kadalikkula.JPG) — Noblevmy at Malayalam Wikipedia — CC BY 2.5
+- banana/03.jpg — [File:Cavendish banana from Maracaibo.jpg](https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg) — Wilfredor — CC BY-SA 3.0
+- banana/04.jpg — [File:MAL-M7c-Malaya-Japanese Occupation-10 Dollars ND (1944).jpg](https://commons.wikimedia.org/wiki/File:MAL-M7c-Malaya-Japanese_Occupation-10_Dollars_ND_(1944).jpg) — National Museum of American History
+ — Public domain
+- banana/05.jpg — [File:Banana on whitebackground.jpg](https://commons.wikimedia.org/wiki/File:Banana_on_whitebackground.jpg) — Filo gèn' — CC BY-SA 4.0
+- banana/06.jpg — [File:Banana & Sea Cox's Bazar Bangladesh.jpg](https://commons.wikimedia.org/wiki/File:Banana_%26_Sea_Cox%27s_Bazar_Bangladesh.jpg) — Bdruhul — CC BY-SA 4.0
+- banana/07.jpg — [File:Ripe banana 05082020.jpg](https://commons.wikimedia.org/wiki/File:Ripe_banana_05082020.jpg) — Atsmgysy2254 — CC BY-SA 4.0
+- banana/08.jpg — [File:Banana for your health.jpg](https://commons.wikimedia.org/wiki/File:Banana_for_your_health.jpg) — Suleman Abdul Fatawu — CC BY-SA 4.0
+- banana/09.jpg — [File:Banana dágua.jpg](https://commons.wikimedia.org/wiki/File:Banana_d%C3%A1gua.jpg) — Vitor da Silva Gonçalves — CC BY-SA 4.0
+- banana/10.jpg — [File:Banana fruits.jpg](https://commons.wikimedia.org/wiki/File:Banana_fruits.jpg) — Subash Bose 29 — CC BY-SA 4.0
+- banana/11.jpg — [File:Red Banana with Black BG.jpg](https://commons.wikimedia.org/wiki/File:Red_Banana_with_Black_BG.jpg) — Revanthan N — CC BY-SA 4.0
+- banana/12.jpg — [File:Banana Chips by Ramesh Kunnappully 20210820 100657.jpg](https://commons.wikimedia.org/wiki/File:Banana_Chips_by_Ramesh_Kunnappully_20210820_100657.jpg) — Ramesh Kunnappully — CC BY-SA 4.0
+- banana/13.jpg — [File:Banana Ketchup.jpg](https://commons.wikimedia.org/wiki/File:Banana_Ketchup.jpg) — Khayri R.R. Woulfe — CC BY-SA 4.0
+- banana/14.jpg — [File:Bananas on black background 02.jpg](https://commons.wikimedia.org/wiki/File:Bananas_on_black_background_02.jpg) — Krzysztof Golik — CC BY-SA 4.0
+- banana/15.jpg — [File:Green raw bananas.jpg](https://commons.wikimedia.org/wiki/File:Green_raw_bananas.jpg) — Vitaium — CC BY-SA 4.0
+- banana/16.jpg — [File:Banana 5.jpg](https://commons.wikimedia.org/wiki/File:Banana_5.jpg) — Gokulraj Andiyappan — CC BY-SA 4.0
+- banana/17.jpg — [File:Raw bananas hanging from a banana plant in West Bengal.jpg](https://commons.wikimedia.org/wiki/File:Raw_bananas_hanging_from_a_banana_plant_in_West_Bengal.jpg) — Billjones94 — CC BY-SA 4.0
+- banana/18.jpg — [File:Banana fruit (musa).jpg](https://commons.wikimedia.org/wiki/File:Banana_fruit_(musa).jpg) — DEEPAN RAJA .M — CC BY-SA 4.0
+- banana/19.jpg — [File:Banana tree (musa).jpg](https://commons.wikimedia.org/wiki/File:Banana_tree_(musa).jpg) — DEEPAN RAJA .M — CC BY-SA 4.0
+- banana/20.jpg — [File:At Tenerife 2022 227.jpg](https://commons.wikimedia.org/wiki/File:At_Tenerife_2022_227.jpg) — Photograph by Mike Peel (www.mikepeel.net). — CC BY-SA 4.0
+- banana/21.jpg — [File:Banana Chip.jpg](https://commons.wikimedia.org/wiki/File:Banana_Chip.jpg) — Derk29 — CC BY-SA 4.0
+- banana/22.jpg — [File:At Icod de los Vinos 2023 033 - Bananas at Parque del Drago.jpg](https://commons.wikimedia.org/wiki/File:At_Icod_de_los_Vinos_2023_033_-_Bananas_at_Parque_del_Drago.jpg) — Photograph by Mike Peel (www.mikepeel.net). — CC BY-SA 4.0
+- banana/23.jpg — [File:Punti (Banana).jpg](https://commons.wikimedia.org/wiki/File:Punti_(Banana).jpg) — Elaine Mae Yon Jimin — CC BY 4.0
+- dog/00.jpg — [File:American Eskimo Dog portrait above.jpg](https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_portrait_above.jpg) — Flickr user SheltieBoy — CC BY 2.0
+- dog/01.jpg — [File:Bartolomeo Passerotti - Portrait of a Man with a Dog.JPG](https://commons.wikimedia.org/wiki/File:Bartolomeo_Passerotti_-_Portrait_of_a_Man_with_a_Dog.JPG) — Bartolomeo Passarotti — Public domain
+- dog/02.jpg — [File:Gustave Courbet - Self-Portrait with Black Dog - WGA05480.jpg](https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Self-Portrait_with_Black_Dog_-_WGA05480.jpg) — Gustave Courbet — Public domain
+- dog/03.jpg — [File:Bartolomeo Passerotti - Portrait of a Man with a Dog - WGA17075.jpg](https://commons.wikimedia.org/wiki/File:Bartolomeo_Passerotti_-_Portrait_of_a_Man_with_a_Dog_-_WGA17075.jpg) — Bartolomeo Passarotti — Public domain
+- dog/04.jpg — [File:Bartolomeo Passerotti - Portrait of a Man with a Dog (detail) - WGA17076.jpg](https://commons.wikimedia.org/wiki/File:Bartolomeo_Passerotti_-_Portrait_of_a_Man_with_a_Dog_(detail)_-_WGA17076.jpg) — Bartolomeo Passarotti — Public domain
+- dog/05.jpg — [File:Titian - Charles V Standing with His Dog - WGA22946.jpg](https://commons.wikimedia.org/wiki/File:Titian_-_Charles_V_Standing_with_His_Dog_-_WGA22946.jpg) — Titian / After Jakob Seisenegger — Public domain
+- dog/06.jpg — [File:Pierre-Auguste Renoir, Portrait of Alfred Bérard with His Dog (1881).jpg](https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir,_Portrait_of_Alfred_B%C3%A9rard_with_His_Dog_(1881).jpg) — Pierre-Auguste Renoir — Public domain
+- dog/07.jpg — [File:Lavinia Fontana - Portrait of a Lady with a Dog - Google Art Project.jpg](https://commons.wikimedia.org/wiki/File:Lavinia_Fontana_-_Portrait_of_a_Lady_with_a_Dog_-_Google_Art_Project.jpg) — Lavinia Fontana — Public domain
+- dog/08.jpg — [File:Largillière Portrait of a lady (detail) 02.jpg](https://commons.wikimedia.org/wiki/File:Largilli%C3%A8re_Portrait_of_a_lady_(detail)_02.jpg) — Nicolas de Largillière — Public domain
+- dog/09.jpg — [File:Portrait of a Dog (4760643633).jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_a_Dog_(4760643633).jpg) — Helgi Halldórsson from Reykjavík, Iceland — CC BY-SA 2.0
+- dog/10.jpg — [File:Double portrait, woman, man, dog, balcony Fortepan 28967.jpg](https://commons.wikimedia.org/wiki/File:Double_portrait,_woman,_man,_dog,_balcony_Fortepan_28967.jpg) — FOTO:Fortepan — ID 28967: Adományozó/Donor: Vojnich Pál. arc — CC BY-SA 3.0
+- dog/11.jpg — [File:Official Portrait of Buddy the Dog - DPLA - 8bb24feae78ce1f060addb5682fc48e6.jpg](https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Buddy_the_Dog_-_DPLA_-_8bb24feae78ce1f060addb5682fc48e6.jpg) — President (1993-2001 : Clinton). White House Photograph Offi — Public domain
+- dog/12.jpg — [File:Hazel MacKaye and dog by Harris & Ewing.jpg](https://commons.wikimedia.org/wiki/File:Hazel_MacKaye_and_dog_by_Harris_%26_Ewing.jpg) — Harris &amp; Ewing / Adam Cuerden — Public domain
+- dog/13.jpg — [File:Adriaen Isenbrant - Portrait of a lady, half-length, with a dog (lighter).jpeg](https://commons.wikimedia.org/wiki/File:Adriaen_Isenbrant_-_Portrait_of_a_lady,_half-length,_with_a_dog_(lighter).jpeg) — Adriaen Isenbrandt — Public domain
+- dog/14.jpg — [File:Nicolas de Largillierre - Portrait of a lady with a dog and a monkey - M.Ob.686 MNW - National Museum in Warsaw.jpg](https://commons.wikimedia.org/wiki/File:Nicolas_de_Largillierre_-_Portrait_of_a_lady_with_a_dog_and_a_monkey_-_M.Ob.686_MNW_-_National_Museum_in_Warsaw.jpg) — Nicolas de Largillière — Public domain
+- dog/15.jpg — [File:Portrait of an Extraordinary Musical Dog.jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_an_Extraordinary_Musical_Dog.jpg) — Philip Reinagle — Public domain
+- dog/16.jpg — [File:Portrait of a young boy and girl with their dog and puppy (by George Romney).jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_a_young_boy_and_girl_with_their_dog_and_puppy_(by_George_Romney).jpg) — George Romney — Public domain
+- dog/17.jpg — [File:Portrait of Billie Holiday and Mister, Downbeat, New York, N.Y., ca. Feb. 1947 (LOC, 5020400274, cropped).jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_Billie_Holiday_and_Mister,_Downbeat,_New_York,_N.Y.,_ca._Feb._1947_(LOC,_5020400274,_cropped).jpg) — William P. Gottlieb — Public domain
+- dog/18.jpg — [File:Close-up portrait of dog.jpg](https://commons.wikimedia.org/wiki/File:Close-up_portrait_of_dog.jpg) — Pittigrilli — CC BY-SA 4.0
+- dog/19.jpg — [File:Close-up portrait of dog nose.jpg](https://commons.wikimedia.org/wiki/File:Close-up_portrait_of_dog_nose.jpg) — Pittigrilli — CC BY-SA 4.0
+- dog/20.jpg — [File:Human–canine friendship - girl hugging her dog tightly at golden hour in Laos.jpg](https://commons.wikimedia.org/wiki/File:Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg) — Basile Morin — CC BY-SA 4.0
+- dog/21.jpg — [File:"Man with Dog", 1923 self-portrait by Otis Oldfield.jpg](https://commons.wikimedia.org/wiki/File:%22Man_with_Dog%22,_1923_self-portrait_by_Otis_Oldfield.jpg) — Cullen328 — CC BY-SA 4.0
+- dog/22.jpg — [File:Dog portrait Budapest.jpg](https://commons.wikimedia.org/wiki/File:Dog_portrait_Budapest.jpg) — CONTRERAS Roberto — CC BY 4.0
+- dog/23.jpg — [File:Portrait of a Lady with a White Dog (c.1925), by Giovanni Boldini.jpg](https://commons.wikimedia.org/wiki/File:Portrait_of_a_Lady_with_a_White_Dog_(c.1925),_by_Giovanni_Boldini.jpg) — Giovanni Boldini — Public domain
