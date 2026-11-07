@@ -138,3 +138,12 @@
 - 13.jpg — [File:A photo of a cat sitting down.jpg](https://commons.wikimedia.org/wiki/File:A_photo_of_a_cat_sitting_down.jpg) — Asabae2752 — CC0
 - 14.jpg — [File:Black male domestic cat 04.jpg](https://commons.wikimedia.org/wiki/File:Black_male_domestic_cat_04.jpg) — Julián Monge-Nájera — CC BY-SA 4.0
 - 15.jpg — [File:Cat sitting on a ledge at zoo.jpg](https://commons.wikimedia.org/wiki/File:Cat_sitting_on_a_ledge_at_zoo.jpg) — Ahmadkurdi44 — CC BY-SA 4.0
+- jam/38.jpg — [File:Confiture (8279647962).jpg](https://commons.wikimedia.org/wiki/File:Confiture_(8279647962).jpg) — Benh LIEU SONG from Torcy, France — CC BY-SA 2.0
+- jam/39.jpg — [File:Pot-confiture-Framboise-Bonne-Maman-Fete-des-Mere-byRundvald.jpg](https://commons.wikimedia.org/wiki/File:Pot-confiture-Framboise-Bonne-Maman-Fete-des-Mere-byRundvald.jpg) — Rundvald — CC BY-SA 4.0
+- jam/52.jpg — [File:Gelée de pommettes - 2022-10-22.jpg](https://commons.wikimedia.org/wiki/File:Gel%C3%A9e_de_pommettes_-_2022-10-22.jpg) — Jeangagnon — CC BY-SA 4.0
+- jam/55.jpg — [File:Bonne maman confiture.JPG](https://commons.wikimedia.org/wiki/File:Bonne_maman_confiture.JPG) — Geograph23 (Diskussion) — Copyrighted free use
+- ghutra/01.jpg — [File:King Faisal bin Abdulaziz.jpg](https://commons.wikimedia.org/wiki/File:King_Faisal_bin_Abdulaziz.jpg) — Unknown authorUnknown author — Public domain
+- ghutra/04.jpg — [File:Faisal Al Saud at the UN meeting.jpg](https://commons.wikimedia.org/wiki/File:Faisal_Al_Saud_at_the_UN_meeting.jpg) — AnonymousUnknown author — Public domain
+- ghutra/21.jpg — [File:Mohamed Abdel Khalek portrait in Saudi attire 2026.jpg](https://commons.wikimedia.org/wiki/File:Mohamed_Abdel_Khalek_portrait_in_Saudi_attire_2026.jpg) — MohamedAKN — CC0
+- ghutra/29.jpg — [File:The Pearl Harvester.jpg](https://commons.wikimedia.org/wiki/File:The_Pearl_Harvester.jpg) — Jayson De Leon — CC BY 2.0
+- ghutra/32.jpg — [File:Iraqi Militiaman - Flickr - Christiaan Briggs.jpg](https://commons.wikimedia.org/wiki/File:Iraqi_Militiaman_-_Flickr_-_Christiaan_Briggs.jpg) — Christiaan Briggs from London, United Kingdom — CC BY-SA 2.0
