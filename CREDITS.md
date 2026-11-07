@@ -1,0 +1,140 @@
+# Источники фото
+
+Фото взяты с Wikimedia Commons (лицензии CC / public domain, см. страницу каждого файла). Сетки капчи собраны из них автоматически.
+
+## traffic_light
+- 00.jpg — [File:Tipperary Hill - greenoverred Syracuse, New York.jpg](https://commons.wikimedia.org/wiki/File:Tipperary_Hill_-_greenoverred_Syracuse,_New_York.jpg) — Doug Kerr — CC BY-SA 2.0
+- 01.jpg — [File:Traffic Light Signal Post at Dhaka 2014.jpg](https://commons.wikimedia.org/wiki/File:Traffic_Light_Signal_Post_at_Dhaka_2014.jpg) — Aashaa — CC BY-SA 3.0
+- 02.jpg — [File:Darwin (AU), Knuckey St-Mitchell St, Traffic Light -- 2019 -- 4328.jpg](https://commons.wikimedia.org/wiki/File:Darwin_(AU),_Knuckey_St-Mitchell_St,_Traffic_Light_--_2019_--_4328.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 03.jpg — [File:Traffic Light on corner of King William Street, London EC4 - geograph.org.uk - 3513847.jpg](https://commons.wikimedia.org/wiki/File:Traffic_Light_on_corner_of_King_William_Street,_London_EC4_-_geograph.org.uk_-_3513847.jpg) — Christine Matthews  — CC BY-SA 2.0
+- 04.jpg — [File:UK Green Traffic Light Signal - geograph.org.uk - 5094587.jpg](https://commons.wikimedia.org/wiki/File:UK_Green_Traffic_Light_Signal_-_geograph.org.uk_-_5094587.jpg) — Gary  — CC BY-SA 2.0
+- 05.jpg — [File:UK Green Traffic Light Signal - geograph.org.uk - 5131386.jpg](https://commons.wikimedia.org/wiki/File:UK_Green_Traffic_Light_Signal_-_geograph.org.uk_-_5131386.jpg) — Gary  — CC BY-SA 2.0
+- 06.jpg — [File:UK Traffic Light Signal - geograph.org.uk - 5144013.jpg](https://commons.wikimedia.org/wiki/File:UK_Traffic_Light_Signal_-_geograph.org.uk_-_5144013.jpg) — Gary  — CC BY-SA 2.0
+- 07.jpg — [File:UK Traffic Light Signal - geograph.org.uk - 5158959.jpg](https://commons.wikimedia.org/wiki/File:UK_Traffic_Light_Signal_-_geograph.org.uk_-_5158959.jpg) — Gary  — CC BY-SA 2.0
+- 08.jpg — [File:UK Traffic Light Signal - geograph.org.uk - 5162628.jpg](https://commons.wikimedia.org/wiki/File:UK_Traffic_Light_Signal_-_geograph.org.uk_-_5162628.jpg) — Gary  — CC BY-SA 2.0
+- 09.jpg — [File:UK Green Traffic Light Signal - geograph.org.uk - 5264295.jpg](https://commons.wikimedia.org/wiki/File:UK_Green_Traffic_Light_Signal_-_geograph.org.uk_-_5264295.jpg) — Gary  — CC BY-SA 2.0
+- 10.jpg — [File:UK Green Traffic Light Signal - geograph.org.uk - 5264298.jpg](https://commons.wikimedia.org/wiki/File:UK_Green_Traffic_Light_Signal_-_geograph.org.uk_-_5264298.jpg) — Gary  — CC BY-SA 2.0
+- 11.jpg — [File:UK Green Traffic Light Signal - geograph.org.uk - 5264299.jpg](https://commons.wikimedia.org/wiki/File:UK_Green_Traffic_Light_Signal_-_geograph.org.uk_-_5264299.jpg) — Gary  — CC BY-SA 2.0
+- 12.jpg — [File:UK Red Traffic Light Signal - geograph.org.uk - 5264304.jpg](https://commons.wikimedia.org/wiki/File:UK_Red_Traffic_Light_Signal_-_geograph.org.uk_-_5264304.jpg) — Gary  — CC BY-SA 2.0
+- 13.jpg — [File:Green-over-red traffic light in Syracuse NY.jpeg](https://commons.wikimedia.org/wiki/File:Green-over-red_traffic_light_in_Syracuse_NY.jpeg) — Dough4872 — CC BY-SA 4.0
+- 14.jpg — [File:Traffic light on Weizman Street in Tel Aviv, March 2024 01.jpg](https://commons.wikimedia.org/wiki/File:Traffic_light_on_Weizman_Street_in_Tel_Aviv,_March_2024_01.jpg) — Chenspec — CC BY-SA 4.0
+- 15.jpg — [File:Traffic light on Weizman Street in Tel Aviv, March 2024 02.jpg](https://commons.wikimedia.org/wiki/File:Traffic_light_on_Weizman_Street_in_Tel_Aviv,_March_2024_02.jpg) — Chenspec — CC BY-SA 4.0
+## bus
+- 00.jpg — [File:Ftr bus in Wellington Street, Leeds city centre, 28 September 2008.jpg](https://commons.wikimedia.org/wiki/File:Ftr_bus_in_Wellington_Street,_Leeds_city_centre,_28_September_2008.jpg) — RichTea — CC BY-SA 2.0
+- 01.jpg — [File:Lothian Buses open top tour bus 507 Dennis Trident Plaxton President T507 SSG City Sightseeing livery.jpg](https://commons.wikimedia.org/wiki/File:Lothian_Buses_open_top_tour_bus_507_Dennis_Trident_Plaxton_President_T507_SSG_City_Sightseeing_livery.jpg) — Kenneth Allen — CC BY-SA 2.0
+- 02.jpg — [File:City centre shuttle bus - Trinity Street - geograph.org.uk - 742316.jpg](https://commons.wikimedia.org/wiki/File:City_centre_shuttle_bus_-_Trinity_Street_-_geograph.org.uk_-_742316.jpg) — Sebastian Ballard — CC BY-SA 2.0
+- 03.jpg — [File:Bus in City Street - geograph.org.uk - 1167693.jpg](https://commons.wikimedia.org/wiki/File:Bus_in_City_Street_-_geograph.org.uk_-_1167693.jpg) — Basher Eyre — CC BY-SA 2.0
+- 04.jpg — [File:London , City of London - Tour Bus on Fleet Street - geograph.org.uk - 1225163.jpg](https://commons.wikimedia.org/wiki/File:London_,_City_of_London_-_Tour_Bus_on_Fleet_Street_-_geograph.org.uk_-_1225163.jpg) — Lewis Clarke — CC BY-SA 2.0
+- 05.jpg — [File:Ftr bus in New York Street, Leeds city centre, 19 April 2008.jpg](https://commons.wikimedia.org/wiki/File:Ftr_bus_in_New_York_Street,_Leeds_city_centre,_19_April_2008.jpg) — Chris Robertshaw from West Yorkshire — CC BY 2.0
+- 06.jpg — [File:Bus bulb on Broadway below Lispenard street jeh.jpg](https://commons.wikimedia.org/wiki/File:Bus_bulb_on_Broadway_below_Lispenard_street_jeh.jpg) — Jim.henderson at English Wikipedia — Public domain
+- 07.jpg — [File:City sightseeing bus on Frodsham Street, Chester.JPG](https://commons.wikimedia.org/wiki/File:City_sightseeing_bus_on_Frodsham_Street,_Chester.JPG) — Rept0n1x — CC BY-SA 3.0
+- 08.jpg — [File:City Sightseeing bus in Oxford, England 07 - St Aldgate's Street.jpg](https://commons.wikimedia.org/wiki/File:City_Sightseeing_bus_in_Oxford,_England_07_-_St_Aldgate%27s_Street.jpg) — Ed Webster — CC BY 2.0
+- 09.jpg — [File:Bus stop - Belize City 2015.jpg](https://commons.wikimedia.org/wiki/File:Bus_stop_-_Belize_City_2015.jpg) — ironypoisoning — CC BY-SA 2.0
+- 10.jpg — [File:Bus at Stratford City Bus Station.jpg](https://commons.wikimedia.org/wiki/File:Bus_at_Stratford_City_Bus_Station.jpg) — Tom Page — CC BY-SA 2.0
+- 11.jpg — [File:Leeds City Bus Station (geograph 6776880).jpg](https://commons.wikimedia.org/wiki/File:Leeds_City_Bus_Station_(geograph_6776880).jpg) — Stephen Craven — CC BY-SA 2.0
+- 12.jpg — [File:Glasgow City Sightseeing bus on Argyle Street (geograph 7159004).jpg](https://commons.wikimedia.org/wiki/File:Glasgow_City_Sightseeing_bus_on_Argyle_Street_(geograph_7159004).jpg) — Thomas Nugent — CC BY-SA 2.0
+- 13.jpg — [File:197 Bus on Princess Street - geograph.org.uk - 3810440.jpg](https://commons.wikimedia.org/wiki/File:197_Bus_on_Princess_Street_-_geograph.org.uk_-_3810440.jpg) — David Dixon  — CC BY-SA 2.0
+- 14.jpg — [File:City Sightseeing bus in Chambers Street, Edinburgh - geograph.org.uk - 4527357.jpg](https://commons.wikimedia.org/wiki/File:City_Sightseeing_bus_in_Chambers_Street,_Edinburgh_-_geograph.org.uk_-_4527357.jpg) — Mike Pennington  — CC BY-SA 2.0
+- 15.jpg — [File:Superloop 8 bus at White City bus station (geograph 7570740).jpg](https://commons.wikimedia.org/wiki/File:Superloop_8_bus_at_White_City_bus_station_(geograph_7570740).jpg) — David Hawgood — CC BY-SA 2.0
+## crosswalk
+- 00.jpg — [File:Japanese car accident.jpg](https://commons.wikimedia.org/wiki/File:Japanese_car_accident.jpg) — Shuets Udono — CC BY-SA 2.0
+- 01.jpg — [File:Tel aviv landscape pedestrian crosswalk zebra crossing public domain 18.jpg](https://commons.wikimedia.org/wiki/File:Tel_aviv_landscape_pedestrian_crosswalk_zebra_crossing_public_domain_18.jpg) — Equalhuman — CC0
+- 02.jpg — [File:Tel aviv landscape pedestrian crosswalk zebra crossing public domain 19.jpg](https://commons.wikimedia.org/wiki/File:Tel_aviv_landscape_pedestrian_crosswalk_zebra_crossing_public_domain_19.jpg) — Equalhuman — CC0
+- 03.jpg — [File:Hosszú zebra -) - Long crosswalk - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Hossz%C3%BA_zebra_-)_-_Long_crosswalk_-_panoramio.jpg) — El Nino — CC BY-SA 3.0
+- 04.jpg — [File:Cobblestone zebra crossing crosswalk (27813061567).jpg](https://commons.wikimedia.org/wiki/File:Cobblestone_zebra_crossing_crosswalk_(27813061567).jpg) — Eric Fischer — CC BY 2.0
+- 05.jpg — [File:Piano key crosswalk at Oberlin Conservatory - Baskauf photos - 2015-04-23 18.17.42.jpg](https://commons.wikimedia.org/wiki/File:Piano_key_crosswalk_at_Oberlin_Conservatory_-_Baskauf_photos_-_2015-04-23_18.17.42.jpg) — Steven J. Baskauf — CC BY-SA 4.0
+- 06.jpg — [File:Zebra crossing St Helier.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing_St_Helier.jpg) — Jèrriais janne — CC BY-SA 4.0
+- 07.jpg — [File:20220907 zebra crossing in the NL.jpg](https://commons.wikimedia.org/wiki/File:20220907_zebra_crossing_in_the_NL.jpg) — Ziko van Dijk — CC BY-SA 4.0
+- 08.jpg — [File:Zebra Cross di Jalan Asia Afrika.jpg](https://commons.wikimedia.org/wiki/File:Zebra_Cross_di_Jalan_Asia_Afrika.jpg) — Astari28 — CC BY-SA 4.0
+- 09.jpg — [File:Zebra crossing, Leith Walk - geograph.org.uk - 4724140.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Leith_Walk_-_geograph.org.uk_-_4724140.jpg) — Richard Webb  — CC BY-SA 2.0
+- 10.jpg — [File:Zebra crossing, Kingsway, Newport - geograph.org.uk - 4821157.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Kingsway,_Newport_-_geograph.org.uk_-_4821157.jpg) — Jaggery  — CC BY-SA 2.0
+- 11.jpg — [File:Zebra crossing, Nippet Lane - geograph.org.uk - 4831324.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Nippet_Lane_-_geograph.org.uk_-_4831324.jpg) — Stephen Craven  — CC BY-SA 2.0
+- 12.jpg — [File:Zebra crossing, Robin Lane, Pudsey - geograph.org.uk - 4984188.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Robin_Lane,_Pudsey_-_geograph.org.uk_-_4984188.jpg) — Stephen Craven  — CC BY-SA 2.0
+- 13.jpg — [File:Zebra crossing, High Street, Tywyn - geograph.org.uk - 5164349.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_High_Street,_Tywyn_-_geograph.org.uk_-_5164349.jpg) — Jaggery  — CC BY-SA 2.0
+- 14.jpg — [File:Rainbow zebra crossing in Andorra-la-Vella.jpg](https://commons.wikimedia.org/wiki/File:Rainbow_zebra_crossing_in_Andorra-la-Vella.jpg) — Андрей Романенко — CC BY-SA 4.0
+- 15.jpg — [File:Zebra crossing for Glass Creek Trail on Kilby Road, Kew East.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing_for_Glass_Creek_Trail_on_Kilby_Road,_Kew_East.jpg) — Philip Mallis — CC BY-SA 2.0
+## hydrant
+- 00.jpg — [File:Klagenfurt Sankt Ruprecht Rosentaler Straße 165 bunter Hydrant 28072010 8164.jpg](https://commons.wikimedia.org/wiki/File:Klagenfurt_Sankt_Ruprecht_Rosentaler_Stra%C3%9Fe_165_bunter_Hydrant_28072010_8164.jpg) — Johann Jaritz — CC BY-SA 4.0
+- 01.jpg — [File:Toulouse - Fire hydrant in Compans Caffarelli.jpg](https://commons.wikimedia.org/wiki/File:Toulouse_-_Fire_hydrant_in_Compans_Caffarelli.jpg) — PierreSelim — CC BY-SA 3.0
+- 02.jpg — [File:East Greenwich (Rhode Island, USA), Hydrant -- 2006 -- 9.jpg](https://commons.wikimedia.org/wiki/File:East_Greenwich_(Rhode_Island,_USA),_Hydrant_--_2006_--_9.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 03.jpg — [File:East Greenwich (Rhode Island, USA), Hydrant -- 2006 -- 8.jpg](https://commons.wikimedia.org/wiki/File:East_Greenwich_(Rhode_Island,_USA),_Hydrant_--_2006_--_8.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 04.jpg — [File:East Greenwich (Rhode Island, USA), Hydrant -- 2006 -- 10.jpg](https://commons.wikimedia.org/wiki/File:East_Greenwich_(Rhode_Island,_USA),_Hydrant_--_2006_--_10.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 05.jpg — [File:Workers replacing a fire hydrant in Campbell.gk.jpg](https://commons.wikimedia.org/wiki/File:Workers_replacing_a_fire_hydrant_in_Campbell.gk.jpg) — Grendelkhan — CC BY-SA 3.0
+- 06.jpg — [File:Galtür - Hydrant 01.jpg](https://commons.wikimedia.org/wiki/File:Galt%C3%BCr_-_Hydrant_01.jpg) — Basotxerri — CC BY-SA 4.0
+- 07.jpg — [File:Past fire hydrant in Estaing.jpg](https://commons.wikimedia.org/wiki/File:Past_fire_hydrant_in_Estaing.jpg) — Krzysztof Golik — CC BY-SA 4.0
+- 08.jpg — [File:Fire Hydrant of McLean Street and Shepherd Avenue in Quesnel, BC (DSCF5227).jpg](https://commons.wikimedia.org/wiki/File:Fire_Hydrant_of_McLean_Street_and_Shepherd_Avenue_in_Quesnel,_BC_(DSCF5227).jpg) — Trougnouf (Benoit Brummer) — CC BY 4.0
+- 09.jpg — [File:Fire Hydrant of Carson Avenue and Kinchant Street in Quesnel, BC (DSCF5303).jpg](https://commons.wikimedia.org/wiki/File:Fire_Hydrant_of_Carson_Avenue_and_Kinchant_Street_in_Quesnel,_BC_(DSCF5303).jpg) — Trougnouf (Benoit Brummer) — CC BY 4.0
+- 10.jpg — [File:Fire hydrant of McLean Street and St Laurent Avenue in Quesnel, BC (DSCF5265).jpg](https://commons.wikimedia.org/wiki/File:Fire_hydrant_of_McLean_Street_and_St_Laurent_Avenue_in_Quesnel,_BC_(DSCF5265).jpg) — Trougnouf (Benoit Brummer) — CC BY 4.0
+- 11.jpg — [File:Fire hydrant of Shepherd Avenue and Kinchant Street in Quesnel, BC (DSCF5068).jpg](https://commons.wikimedia.org/wiki/File:Fire_hydrant_of_Shepherd_Avenue_and_Kinchant_Street_in_Quesnel,_BC_(DSCF5068).jpg) — Trougnouf (Benoit Brummer) — CC BY 4.0
+- 12.jpg — [File:Fire hydrant at the University of Victoria, BC (DSCF5631).jpg](https://commons.wikimedia.org/wiki/File:Fire_hydrant_at_the_University_of_Victoria,_BC_(DSCF5631).jpg) — Trougnouf (Benoit Brummer) — CC BY 4.0
+- 13.jpg — [File:Dülmen, Kirchspiel, ehem. Munitionslager Visbeck, Hydrant -- 2020 -- 8377.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Munitionslager_Visbeck,_Hydrant_--_2020_--_8377.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 14.jpg — [File:Dülmen, Kirchspiel, ehem. Munitionslager Visbeck, Hydrant -- 2020 -- 8383.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Munitionslager_Visbeck,_Hydrant_--_2020_--_8383.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 15.jpg — [File:Fire hydrant in Popayán.jpg](https://commons.wikimedia.org/wiki/File:Fire_hydrant_in_Popay%C3%A1n.jpg) — Bernard Gagnon — CC BY-SA 4.0
+## bicycle
+- 00.jpg — [File:Port Street Parked Bikes, New Orleans 2012.jpg](https://commons.wikimedia.org/wiki/File:Port_Street_Parked_Bikes,_New_Orleans_2012.jpg) — Infrogmation of New Orleans — CC BY 2.0
+- 01.jpg — [File:Parked bicycle in the streets of Amsterdam in spring of 2013.jpg](https://commons.wikimedia.org/wiki/File:Parked_bicycle_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg) — Fons Heijnsbroek — CC BY-SA 3.0
+- 02.jpg — [File:Rome (Italy), Bicycle -- 2013 -- 4368.jpg](https://commons.wikimedia.org/wiki/File:Rome_(Italy),_Bicycle_--_2013_--_4368.jpg) — Dietmar Rabich — CC BY-SA 4.0
+- 03.jpg — [File:Robin Hood bicycle Main Street downtown Montpelier VT August 2018.jpg](https://commons.wikimedia.org/wiki/File:Robin_Hood_bicycle_Main_Street_downtown_Montpelier_VT_August_2018.jpg) — Artaxerxes — CC BY-SA 3.0
+- 04.jpg — [File:Bicycles parked behind a no bicycle parking sign, Groningen (2020) 02.jpg](https://commons.wikimedia.org/wiki/File:Bicycles_parked_behind_a_no_bicycle_parking_sign,_Groningen_(2020)_02.jpg) — Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © — CC BY-SA 4.0
+- 05.jpg — [File:Bicycles parked behind a no bicycle parking sign, Groningen (2020) 01.jpg](https://commons.wikimedia.org/wiki/File:Bicycles_parked_behind_a_no_bicycle_parking_sign,_Groningen_(2020)_01.jpg) — Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © — CC BY-SA 4.0
+- 06.jpg — [File:St Claude Street Treme New Orleans Nov 2009 Parked bicycles.jpg](https://commons.wikimedia.org/wiki/File:St_Claude_Street_Treme_New_Orleans_Nov_2009_Parked_bicycles.jpg) — Infrogmation of New Orleans — CC BY-SA 4.0
+- 07.jpg — [File:Bicycle Taxis Parked Under Traffic Signs.jpg](https://commons.wikimedia.org/wiki/File:Bicycle_Taxis_Parked_Under_Traffic_Signs.jpg) — Collins Musonda — CC BY-SA 4.0
+- 08.jpg — [File:Bicycle parked at a no bicycle parking sign, Rotterdam-Centrum, Rotterdam (2020) 01.jpg](https://commons.wikimedia.org/wiki/File:Bicycle_parked_at_a_no_bicycle_parking_sign,_Rotterdam-Centrum,_Rotterdam_(2020)_01.jpg) — Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © — CC BY-SA 4.0
+- 09.jpg — [File:Bicycle parked at a no bicycle parking sign, Rotterdam-Centrum, Rotterdam (2020) 02.jpg](https://commons.wikimedia.org/wiki/File:Bicycle_parked_at_a_no_bicycle_parking_sign,_Rotterdam-Centrum,_Rotterdam_(2020)_02.jpg) — Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © — CC BY-SA 4.0
+- 10.jpg — [File:Solitary bicycle parked in Browns Buildings - geograph.org.uk - 1833914.jpg](https://commons.wikimedia.org/wiki/File:Solitary_bicycle_parked_in_Browns_Buildings_-_geograph.org.uk_-_1833914.jpg) — Basher Eyre  — CC BY-SA 2.0
+- 11.jpg — [File:Parked bicycle middle of Kensington High Street.jpg](https://commons.wikimedia.org/wiki/File:Parked_bicycle_middle_of_Kensington_High_Street.jpg) — Alex Muller — CC BY 2.0
+- 12.jpg — [File:Bicycle parked Near Golden Square, London W1 - geograph.org.uk - 4206550.jpg](https://commons.wikimedia.org/wiki/File:Bicycle_parked_Near_Golden_Square,_London_W1_-_geograph.org.uk_-_4206550.jpg) — Christine Matthews  — CC BY-SA 2.0
+- 13.jpg — [File:Jeep parked on bicycle lane in Ebisu.jpg](https://commons.wikimedia.org/wiki/File:Jeep_parked_on_bicycle_lane_in_Ebisu.jpg) — Syced — CC0
+- 14.jpg — [File:Bicycles parked on St Benedicts Street - geograph.org.uk - 6257115.jpg](https://commons.wikimedia.org/wiki/File:Bicycles_parked_on_St_Benedicts_Street_-_geograph.org.uk_-_6257115.jpg) — Evelyn Simak  — CC BY-SA 2.0
+- 15.jpg — [File:New Orleans February 2014 - Parked bicycle in front of sett street.jpg](https://commons.wikimedia.org/wiki/File:New_Orleans_February_2014_-_Parked_bicycle_in_front_of_sett_street.jpg) — bionicteaching — CC BY-SA 2.0
+## motorcycle
+- 00.jpg — [File:Mda motorcycle.JPG](https://commons.wikimedia.org/wiki/File:Mda_motorcycle.JPG) — No machine-readable author provided. Bachrach44 assumed (bas — Public domain
+- 01.jpg — [File:Motorcycle parked up - geograph.org.uk - 658787.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_parked_up_-_geograph.org.uk_-_658787.jpg) — mike lis — CC BY-SA 2.0
+- 02.jpg — [File:Motorcycle racing, Oulton Park, early 1960s - geograph.org.uk - 1461407.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_racing,_Oulton_Park,_early_1960s_-_geograph.org.uk_-_1461407.jpg) — John Goldsmith — CC BY-SA 2.0
+- 03.jpg — [File:Motorcycle park, Dorchester - geograph.org.uk - 1734578.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_park,_Dorchester_-_geograph.org.uk_-_1734578.jpg) — Roger Cornfoot — CC BY-SA 2.0
+- 04.jpg — [File:Motorcycle touring Patagonia.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_touring_Patagonia.jpg) — https://www.flickr.com/people/danielpgauer/ — CC BY 2.0
+- 05.jpg — [File:Parked motorcycles.jpg](https://commons.wikimedia.org/wiki/File:Parked_motorcycles.jpg) — ANBI — CC BY-SA 3.0
+- 06.jpg — [File:Yellow motorcycle parked (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Yellow_motorcycle_parked_(Unsplash).jpg) — Simson Petrol simson_petrol — CC0
+- 07.jpg — [File:NYC - motorcycle parked on street at night.jpg](https://commons.wikimedia.org/wiki/File:NYC_-_motorcycle_parked_on_street_at_night.jpg) — Jess Hawsor — CC BY-SA 4.0
+- 08.jpg — [File:BMW motorcycle parked in a street, Vieux-Québec.jpg](https://commons.wikimedia.org/wiki/File:BMW_motorcycle_parked_in_a_street,_Vieux-Qu%C3%A9bec.jpg) — Wilfredor — CC BY-SA 4.0
+- 09.jpg — [File:Motorcycle parked by the road in Dongguan.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_parked_by_the_road_in_Dongguan.jpg) — David290 — CC BY-SA 4.0
+- 10.jpg — [File:Motorcycle park in Nigeria.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_park_in_Nigeria.jpg) — Osezele Favour Eboseyi  — CC BY-SA 4.0
+- 11.jpg — [File:Motorcycle parked on the side of the street.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_parked_on_the_side_of_the_street.jpg) — mycurrency.com — CC BY-SA 4.0
+- 12.jpg — [File:Motorcycle parked along the road.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_parked_along_the_road.jpg) — daSupremo — CC BY-SA 4.0
+- 13.jpg — [File:Motorcycle parked on Ling Bien Bridge.jpg](https://commons.wikimedia.org/wiki/File:Motorcycle_parked_on_Ling_Bien_Bridge.jpg) — TheRollo76 — CC BY-SA 4.0
+- 14.jpg — [File:Parked Slingshots, Motorcycle & Trikes - Las Vegas Ride for Kids 2019.jpg](https://commons.wikimedia.org/wiki/File:Parked_Slingshots,_Motorcycle_%26_Trikes_-_Las_Vegas_Ride_for_Kids_2019.jpg) — Noah Wulf — CC BY-SA 4.0
+- 15.jpg — [File:Parked motorcycle, Omagh - geograph.org.uk - 3581836.jpg](https://commons.wikimedia.org/wiki/File:Parked_motorcycle,_Omagh_-_geograph.org.uk_-_3581836.jpg) — Kenneth  Allen  — CC BY-SA 2.0
+## stairs
+- 00.jpg — [File:Castle Steps, Gibraltar.jpg](https://commons.wikimedia.org/wiki/File:Castle_Steps,_Gibraltar.jpg) — Scott Wylie — CC BY 2.5
+- 01.jpg — [File:Stone Steps Wide Angle Perspective 1933px.jpg](https://commons.wikimedia.org/wiki/File:Stone_Steps_Wide_Angle_Perspective_1933px.jpg) — Photo by and (c)2007 Derek Ramsey (Ram-Man) — GFDL 1.2
+- 02.jpg — [File:Private steps - geograph.org.uk - 775629.jpg](https://commons.wikimedia.org/wiki/File:Private_steps_-_geograph.org.uk_-_775629.jpg) — Evelyn Simak — CC BY-SA 2.0
+- 03.jpg — [File:Steps leading to the old Quaker burial ground - geograph.org.uk - 961123.jpg](https://commons.wikimedia.org/wiki/File:Steps_leading_to_the_old_Quaker_burial_ground_-_geograph.org.uk_-_961123.jpg) — Evelyn Simak — CC BY-SA 2.0
+- 04.jpg — [File:Steps to leave Bedruthan Beach - geograph.org.uk - 1013902.jpg](https://commons.wikimedia.org/wiki/File:Steps_to_leave_Bedruthan_Beach_-_geograph.org.uk_-_1013902.jpg) — Paul Harvey — CC BY-SA 2.0
+- 05.jpg — [File:Spanish Steps 1 (Tacoma, Washington).jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_1_(Tacoma,_Washington).jpg) — Visitor7 — CC BY-SA 3.0
+- 06.jpg — [File:Spanish Steps 3 (Tacoma, Washington).jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_3_(Tacoma,_Washington).jpg) — Visitor7 — CC BY-SA 3.0
+- 07.jpg — [File:Spanish Steps 2 (Tacoma, Washington).jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_2_(Tacoma,_Washington).jpg) — Visitor7 — CC BY-SA 3.0
+- 08.jpg — [File:Outdoor steps in Seattle.JPG](https://commons.wikimedia.org/wiki/File:Outdoor_steps_in_Seattle.JPG) — Jrcla2 — CC BY-SA 3.0
+- 09.jpg — [File:Spanish Steps 2015-06 457.jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_2015-06_457.jpg) — Chris Light — CC BY-SA 4.0
+- 10.jpg — [File:Spanish Steps 2015-06 458.jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_2015-06_458.jpg) — Chris Light — CC BY-SA 4.0
+- 11.jpg — [File:Spanish Steps 2015-06 459 (duplicate).jpg](https://commons.wikimedia.org/wiki/File:Spanish_Steps_2015-06_459_(duplicate).jpg) — Chris Light — CC BY-SA 4.0
+- 12.jpg — [File:HK 上環 Sheung Wan 磅巷 Pound Lane outdoor stairs Aug 2016 DSC.jpg](https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E7%A3%85%E5%B7%B7_Pound_Lane_outdoor_stairs_Aug_2016_DSC.jpg) — Bo Tak Leeai CHA — CC BY-SA 4.0
+- 13.jpg — [File:HKU 香港大學 Sun Yat-Sen Steps outdoor stairs 中山階 Sun Yat-sen Place 中山廣場 sign March-2017 Lnv2.jpg](https://commons.wikimedia.org/wiki/File:HKU_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_Sun_Yat-Sen_Steps_outdoor_stairs_%E4%B8%AD%E5%B1%B1%E9%9A%8E_Sun_Yat-sen_Place_%E4%B8%AD%E5%B1%B1%E5%BB%A3%E5%A0%B4_sign_March-2017_Lnv2.jpg) — Hanswimae Yeung — CC BY-SA 4.0
+- 14.jpg — [File:HKU 香港大學 Sun Yat-Sen Steps outdoor stairs 中山階 Sun Yat-sen Place 中山廣場 sign March-2017 Lnv4.jpg](https://commons.wikimedia.org/wiki/File:HKU_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_Sun_Yat-Sen_Steps_outdoor_stairs_%E4%B8%AD%E5%B1%B1%E9%9A%8E_Sun_Yat-sen_Place_%E4%B8%AD%E5%B1%B1%E5%BB%A3%E5%A0%B4_sign_March-2017_Lnv4.jpg) — Hanswimae Yeung — CC BY-SA 4.0
+- 15.jpg — [File:HKU 香港大學 Sun Yat-Sen Steps outdoor stairs 中山階 Sun Yat-sen Place 中山廣場 sign March-2017 Lnv3.jpg](https://commons.wikimedia.org/wiki/File:HKU_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_Sun_Yat-Sen_Steps_outdoor_stairs_%E4%B8%AD%E5%B1%B1%E9%9A%8E_Sun_Yat-sen_Place_%E4%B8%AD%E5%B1%B1%E5%BB%A3%E5%A0%B4_sign_March-2017_Lnv3.jpg) — Hanswimae Yeung — CC BY-SA 4.0
+## cat
+- 00.jpg — [File:Cat Sitting In Front Of Tree.jpg](https://commons.wikimedia.org/wiki/File:Cat_Sitting_In_Front_Of_Tree.jpg) — Alexisrael — Public domain
+- 01.jpg — [File:Cat Sitting On Himself.jpg](https://commons.wikimedia.org/wiki/File:Cat_Sitting_On_Himself.jpg) — Photographer: Lynne R. Lawrie — CC BY 3.0
+- 02.jpg — [File:Orange tabby cat sitting on fallen leaves-Hisashi-01.jpg](https://commons.wikimedia.org/wiki/File:Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01.jpg) — Hisashi from Japan — CC BY-SA 2.0
+- 03.jpg — [File:Orange tabby cat sitting on fallen leaves-Hisashi-01A.jpg](https://commons.wikimedia.org/wiki/File:Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg) — Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01.jpg: Hi — CC BY-SA 2.0
+- 04.jpg — [File:Domestic Cat White.JPG](https://commons.wikimedia.org/wiki/File:Domestic_Cat_White.JPG) — JMG2JMG — Public domain
+- 05.jpg — [File:Cat Iran.jpg](https://commons.wikimedia.org/wiki/File:Cat_Iran.jpg) — درفش کاویانی — CC BY-SA 3.0
+- 06.jpg — [File:Domestic cat sitting by door.jpg](https://commons.wikimedia.org/wiki/File:Domestic_cat_sitting_by_door.jpg) — Tim Gerchmez — Public domain
+- 07.jpg — [File:Domestic cat in the grass.JPG](https://commons.wikimedia.org/wiki/File:Domestic_cat_in_the_grass.JPG) — Łukasz Ciesielski - kontakt: Facebook — CC BY-SA 3.0
+- 08.jpg — [File:Cat Sitting 02.JPG](https://commons.wikimedia.org/wiki/File:Cat_Sitting_02.JPG) — Luke Rogers — CC BY-SA 4.0
+- 09.jpg — [File:Cat Sitting 01.JPG](https://commons.wikimedia.org/wiki/File:Cat_Sitting_01.JPG) — Luke Rogers — CC BY-SA 4.0
+- 10.jpg — [File:Cat playing with a lizard.jpg](https://commons.wikimedia.org/wiki/File:Cat_playing_with_a_lizard.jpg) — Basile Morin — CC BY-SA 4.0
+- 11.jpg — [File:Female cat sitting down on sofa.jpg](https://commons.wikimedia.org/wiki/File:Female_cat_sitting_down_on_sofa.jpg) — Smirkybec — CC BY-SA 4.0
+- 12.jpg — [File:Cat Sitting on a Patch of Soil and Grass.jpg](https://commons.wikimedia.org/wiki/File:Cat_Sitting_on_a_Patch_of_Soil_and_Grass.jpg) — Asabae2752 — CC BY-SA 4.0
+- 13.jpg — [File:A photo of a cat sitting down.jpg](https://commons.wikimedia.org/wiki/File:A_photo_of_a_cat_sitting_down.jpg) — Asabae2752 — CC0
+- 14.jpg — [File:Black male domestic cat 04.jpg](https://commons.wikimedia.org/wiki/File:Black_male_domestic_cat_04.jpg) — Julián Monge-Nájera — CC BY-SA 4.0
+- 15.jpg — [File:Cat sitting on a ledge at zoo.jpg](https://commons.wikimedia.org/wiki/File:Cat_sitting_on_a_ledge_at_zoo.jpg) — Ahmadkurdi44 — CC BY-SA 4.0
